@@ -1,5 +1,508 @@
 [
   {
+    "id": "03cb3bcf-75ae-407c-b37f-7dbec5a42fdd",
+    "title": "IMOS - ANMN South Australia (SA) Canyon Mooring",
+    "description": "The SA Canyon Mooring (IMOS platform code: SAM4CY) is a discontinued South Australian regional mooring. The data available from this mooring (4/2/09 - 16/03/10) was designed to monitor particular oceanographic phenomena in coastal ocean waters. The mooring is located at Latitude:-36.52, Longitude:136.86.",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "ANMN",
+      "Alkalinity",
+      "Australian National Mooring Network",
+      "Bathymetry",
+      "Biosphere",
+      "Buoys",
+      "Carbon Dioxide",
+      "Conductivity",
+      "Fluorescence",
+      "Fluorometers",
+      "IMOS Facility",
+      "IMOS Platform",
+      "Inorganic Carbon",
+      "Microbiota",
+      "Moored Buoys",
+      "Nutrients",
+      "Ocean Chemistry",
+      "Ocean Circulation",
+      "Ocean Currents",
+      "Ocean Optics",
+      "Ocean Temperature",
+      "Oceans",
+      "Oxygen",
+      "Photosynthetically Active Radiation",
+      "Plankton",
+      "SAM4CY",
+      "Turbidity",
+      "Water Depth",
+      "Water Temperature"
+    ],
+    "lastUpdated": "2023-08-11T08:00:42.256062",
+    "discoveredAt": "2026-01-14T02:12:40.784Z",
+    "license": "Creative Commons Attribution 4.0 International",
+    "publisher": "South Australian Research and Development Institute",
+    "organizationId": "south-australian-research-and-development-institute",
+    "resources": [
+      {
+        "id": "f942abc5-e5c8-4cf1-9139-f7891ca41ce0",
+        "name": "Sensor data (ADCP, CTD) in NetCDF format via OPeNDAP server",
+        "format": "HTML",
+        "url": "http://thredds.aodn.org.au/thredds/catalog/IMOS/ANMN/SA/SAM4CY/catalog.html",
+        "size": null
+      },
+      {
+        "id": "f90e52eb-f8d3-4499-a21f-9adbfb9a35e1",
+        "name": "Website of the Australian Ocean Data Network (AODN)",
+        "format": "HTML",
+        "url": "http://imos.org.au/aodn.html",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "03cb93fa-d5d5-4894-a526-174af64f448c",
+    "title": "Lower Bellinger and Kalang River Flood Study - Extent",
+    "description": "2d_code_BK_v8_region",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Bellinger",
+      "Great Dividing Range",
+      "Kalang",
+      "Urunga"
+    ],
+    "lastUpdated": "2025-12-17T14:13:06.167366",
+    "discoveredAt": "2026-01-13T23:12:33.231Z",
+    "license": "lsba",
+    "publisher": "Bellingen Shire Council",
+    "organizationId": "bellingen-shire-council-datansw",
+    "resources": [
+      {
+        "id": "879db3a8-77e1-4a59-990a-740eb237e73d",
+        "name": "Lower Bellinger and Kalang River Flood Study - Extent",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/b0c62205-c8a9-483a-b0c8-1c315144fd3e/resource/fc8fde90-d38f-4fae-b86b-743de7e85883",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "03cc6708-8b25-469f-b8f8-c96947cdc39d",
+    "title": "Hydrological Bores (DPIRD-068)",
+    "description": "Hydro Bores is a point feature of the location of publicly available bore monitoring sites maintained by the Department of Primary Industries and Regional Development. They are part of a network of bores designed to monitor regional scale salinity risk and salinity management trial sites. For further information refer to Department of Agriculture Resource Management Technical Report No.388.\n\nSee also the 2014 report card - Groundwater trends in agricultural areas of Western Australia.",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "bores",
+      "groundwater",
+      "hydrological bores"
+    ],
+    "lastUpdated": "2026-01-07T07:37:51.005788",
+    "discoveredAt": "2026-01-14T00:01:54.825Z",
+    "license": "Creative Commons Attribution 3.0 Australia",
+    "publisher": "Department of Primary Industries and Regional Development",
+    "organizationId": "department-of-primary-industries-and-regional-development-western-australia-government",
+    "resources": [
+      {
+        "id": "999538fb-98e6-4636-86e3-3541b203ee97",
+        "name": "Resource Management Technical Report No.388",
+        "format": "URL",
+        "url": "https://researchlibrary.agric.wa.gov.au/rmtr/374/",
+        "size": 25190401
+      },
+      {
+        "id": "de05f429-c98a-4961-9adb-ac62de6aedfc",
+        "name": "Groundwater trends in agricultural areas of Western Australia",
+        "format": "URL",
+        "url": "https://library.dpird.wa.gov.au/rmtr/158/",
+        "size": null
+      },
+      {
+        "id": "37a8de02-c43d-43d6-9221-c7a862cef3b2",
+        "name": "Geopackage",
+        "format": "GEOPACKAGE",
+        "url": "https://data-downloads.slip.wa.gov.au/DPIRD-068/Geopackage",
+        "size": null
+      },
+      {
+        "id": "335585a5-d010-4a63-a966-2fffc65a43a9",
+        "name": "File Geodatabase",
+        "format": "FGDB",
+        "url": "https://data-downloads.slip.wa.gov.au/DPIRD-068/File Geodatabase",
+        "size": null
+      },
+      {
+        "id": "da97fdee-9bea-4ac1-ab86-02d119df265a",
+        "name": "GeoJSON",
+        "format": "GEOJSON",
+        "url": "https://data-downloads.slip.wa.gov.au/DPIRD-068/GeoJSON",
+        "size": null
+      },
+      {
+        "id": "7ce7681b-1895-4ab9-af52-1e92e260c57f",
+        "name": "Shapefile",
+        "format": "SHP",
+        "url": "https://data-downloads.slip.wa.gov.au/DPIRD-068/Shapefile",
+        "size": null
+      },
+      {
+        "id": "c3af820b-14fd-462e-8244-83a61bc2c04e",
+        "name": "Web Feature Service",
+        "format": "WFS",
+        "url": "https://public-services.slip.wa.gov.au/public/services/SLIP_Public_Services/Water_FS/MapServer/WFSServer",
+        "size": null
+      },
+      {
+        "id": "e28cd195-0a90-4da9-b6eb-b04c3dfed4f8",
+        "name": "ArcGIS Server Map Service",
+        "format": "API ARCGIS SERVER MAP SERVICE",
+        "url": "https://public-services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Water/MapServer/43",
+        "size": null
+      },
+      {
+        "id": "4ba4d893-9fad-4d30-831b-399c9c77089f",
+        "name": "Web Mapping Service",
+        "format": "WMS",
+        "url": "https://public-services.slip.wa.gov.au/public/services/SLIP_Public_Services/Water/MapServer/WMSServer",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "03cfdf46-66b7-428f-9de8-479a9a8714f0",
+    "title": "QBCC Annual Report Data - Overseas travel",
+    "description": "Annual overseas travel expenditure by Queensland Building and Construction Commission. \nAdditional information reported in lieu of inclusion in the annual report. Read the complete annual report at www.qbcc.qld.gov.au/about-us/our-performance \nNo overseas travel was reported for the following financial years:\n2020 - 2021\n2021 - 2022\n2022 - 2023\n2023 - 2024\n2024 - 2025",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Annual Report",
+      "Overseas travel",
+      "QBCC"
+    ],
+    "lastUpdated": "2025-11-11T06:57:41.322049",
+    "discoveredAt": "2026-01-14T01:35:18.774Z",
+    "license": "cc-by-4",
+    "publisher": "Queensland Building and Construction Commission",
+    "organizationId": "queensland-building-and-construction-commission-queensland-government",
+    "resources": [
+      {
+        "id": "bca8545a-b3c9-4240-8ab6-6512e8fb975c",
+        "name": "2019-20 Annual Report - Overseas travel - QBCC",
+        "format": "CSV",
+        "url": "https://www.data.qld.gov.au/dataset/03cfdf46-66b7-428f-9de8-479a9a8714f0/resource/bca8545a-b3c9-4240-8ab6-6512e8fb975c/download/qbcc_2019-20-annual-report-overseas-travel-reporting-template.csv",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "03d4280e-4173-4b78-aedd-8bf09ba4bc8a",
+    "title": "Brisbane Water Foreshore Floodplain Risk Management Plan - Report Appendices",
+    "description": "A B C D",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Brisbane Water",
+      "Davistown",
+      "Erina",
+      "Ettalong",
+      "Gosford",
+      "Lower Hawkesbury River",
+      "Point Clare",
+      "Woy Woy"
+    ],
+    "lastUpdated": "2025-12-17T14:13:44.086361",
+    "discoveredAt": "2026-01-13T23:15:06.695Z",
+    "license": "lsba",
+    "publisher": "Central Coast Council",
+    "organizationId": "central-coast-council-datansw",
+    "resources": [
+      {
+        "id": "fcfc1643-6e47-4ef5-8e5f-288672f2d603",
+        "name": "Brisbane Water Foreshore FRMP Report Appendices",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/df67a002-bb76-4460-b993-c091045b40e8/resource/9b3fdc45-d01e-4046-9b4f-8ea6f9a75aa4",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "03d75aa5-abe9-486d-9933-25c61f9b8113",
+    "title": "Poulton Park Overland Flow Management Study and Plan - Community Consultation",
+    "description": "Brochure + questionnaire",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Kogarah",
+      "Oatley Bay",
+      "Oatley Creek",
+      "Poulton Park"
+    ],
+    "lastUpdated": "2025-12-17T14:13:54.808496",
+    "discoveredAt": "2026-01-14T00:14:12.458Z",
+    "license": "lsba",
+    "publisher": "Georges River Council",
+    "organizationId": "georges-river-council-datansw",
+    "resources": [
+      {
+        "id": "264c9bfd-7f09-41d7-89d7-c7ca75102622",
+        "name": "Poulton Park Overland Flow Management Study and Plan - Community Consultation",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/668035ae-ce93-4a95-a1f3-0fb4ea1d34ff/resource/42038054-4013-479e-8dc7-4f17a53d93ad",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "03d8faaf-ea07-425e-a604-62563643085a",
+    "title": "Hastings River - Flood Study - Appendices",
+    "description": "Appendix A-O",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Bains Bridge",
+      "Ellenborough River",
+      "Forbes River",
+      "Great Dividing Range",
+      "Hastings River",
+      "Maria River",
+      "Mount Werrikimbe",
+      "Pappinbarra River",
+      "Port Macquarie",
+      "Wauchope"
+    ],
+    "lastUpdated": "2025-12-17T14:14:05.565752",
+    "discoveredAt": "2026-01-14T01:15:00.724Z",
+    "license": "lsba",
+    "publisher": "Port Macquarie-Hastings Council",
+    "organizationId": "port-macquarie-hastings-council-datansw",
+    "resources": [
+      {
+        "id": "c84a4080-d2f5-4fb3-8a85-36540949509b",
+        "name": "Hastings River - Flood Study - Appendices",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/eb5ab8ba-7710-4274-8384-d4959afb6a9a/resource/db966ddb-0b26-42fd-80bb-315bbca5aef8",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "03da4508-0db1-4ea1-bd00-b3e8e5cd7089",
+    "title": "Number of managers by gender and age",
+    "description": "This dataset contains information about the number and percentage of managers by gender and age, 15 years and over (2006-07 and 2016-17).\r\n\r\n(a) Data was calculated as an average of four quarters (August, November, February, May) in the financial year.\r\n\t\t\t\t\t\r\n(b) Occupation is classified according to the ABS Australian and New Zealand Standard Classification of Occupations (ANZSCO), 2006 (cat. no. 1220.0).\t\r\n\r\n(c) Until recently, ABS policy has been to revise benchmarks for labour force data on a five-yearly basis following final rebasing of population estimates to the latest Census of Population and Housing data. However, labour force population benchmarks are now updated more frequently when preliminary population estimates become available, and again when these preliminary estimates are subsequently revised. For this release of Gender Indicators, Australia, labour force estimates dating back to (and including) 2014-15 have been revised in accordance with this new benchmarking process. Future revisions to benchmarks will then take place every time a new year of labour force data becomes available for publishing in the Gender Indicators publication. Re-benchmarking historical data has not resulted in any material change to unemployment rates, participation rates or employment to population ratios. For more information see ABS Labour Force, Australia, Jun 2016 (cat. no. 6202.0).\t\t\t\t\t\r\nSource: ABS data available on request, Labour Force Survey\t\t\t\t\t\r\n",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Australian-SDG",
+      "Goal 5",
+      "Indicator-05.5.2",
+      "Managers",
+      "SDG",
+      "SDG2018",
+      "Sustainable-development-goals"
+    ],
+    "lastUpdated": "2023-08-10T00:31:33.637202",
+    "discoveredAt": "2026-01-14T02:24:12.685Z",
+    "license": "Creative Commons Attribution 2.5 Australia",
+    "publisher": "Sustainable Development Goals",
+    "organizationId": "sustainable-development-goals",
+    "resources": [
+      {
+        "id": "c15ab147-318f-40fc-a5d1-c32eed092314",
+        "name": "Number of managers by gender and age",
+        "format": "CSV",
+        "url": "https://data.gov.au/data/dataset/03da4508-0db1-4ea1-bd00-b3e8e5cd7089/resource/c15ab147-318f-40fc-a5d1-c32eed092314/download/sdg2018-5-5-2-number-of-managers-by-gender-and-age.csv",
+        "size": 382
+      }
+    ]
+  },
+  {
+    "id": "03db83a0-e701-4cd7-aca1-22b3441472f0",
+    "title": "Phytoplankton concentration measurements in Sydney Harbour - 21st October 2004",
+    "description": "A study of the response of phytoplankton to rainfall in Sydney Harbour on 21st October 2004 is reported here. \n\nSydney Harbour is an important port and recreational region for the city of Sydney. Phytoplankton can be used as one of the indexes of water quality. The concentration of phytoplankton is influenced by the nutrients in the water and the amount of nutrients is thought to alter according to the urban and industrial wastes that drain from the city of Sydney.  \n  \nThe amount of phytoplankton before and after rainfall at Pyrmont in Sydney Harbour was observed. The concentration of chlorophyll after a period of rainfall from the 15th October to the 4th of November 2004, as measured from the surface to 7m deep, was almost 5 times as much as that as before the rain event. The maximum chlorophyll concentration observed by fluorometer was 27 [ug/litre].",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Biosphere",
+      "Chlorophyll",
+      "Microbiota",
+      "Ocean Optics",
+      "Oceans",
+      "Phytoplankton",
+      "Turbidity",
+      "Water Quality",
+      "chlorophyll concentration",
+      "depth",
+      "phytoplankton count"
+    ],
+    "lastUpdated": "2023-08-11T11:19:38.595007",
+    "discoveredAt": "2026-01-14T00:53:28.361Z",
+    "license": "Creative Commons Attribution 2.5 Australia",
+    "publisher": "Ocean Technology Group (OTG), The University of Sydney (USYD)",
+    "organizationId": "ocean-technology-group-otg-the-university-of-sydney-usyd",
+    "resources": [
+      {
+        "id": "21772c21-707e-4a67-9a5f-0e524b8152d1",
+        "name": "21Oct Pyrmont.xls",
+        "format": "XLS",
+        "url": "http://catalogue.aodn.org.au/geonetwork/srv/en/file.disclaimer?uuid=50d436e0-3989-11dc-a05e-00188b4c0af8&fname=21Oct Pyrmont.xls&access=private",
+        "size": null
+      },
+      {
+        "id": "80c3bea3-e022-4df9-ae71-743bffbb4d07",
+        "name": "aodn:phytoplankton_sydney_harbour",
+        "format": "WMS",
+        "url": "http://geoserver.imos.org.au/geoserver/wms",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "03dea932-3793-4b19-aa2d-80e62c861bbe",
+    "title": "Non-State School and Governing Body Details",
+    "description": "Details of non-state schools (including location, type of education and year level range), eligibility for Government funding and details of governing bodies.",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Department of Education",
+      "Education",
+      "NSSAB",
+      "Non-State Schools Accreditation Board",
+      "non-state schools"
+    ],
+    "lastUpdated": "2025-11-11T06:57:48.291486",
+    "discoveredAt": "2026-01-14T00:07:18.885Z",
+    "license": "Creative Commons Attribution 3.0 Australia",
+    "publisher": "Education",
+    "organizationId": "education-queensland-government",
+    "resources": [
+      {
+        "id": "912f9893-1048-4d72-9b63-4955cce4f6a6",
+        "name": "Non-state school details",
+        "format": "XLSX",
+        "url": "https://www.nssab.qld.edu.au/OpenDataSets/OpenData-listofschools.xlsx",
+        "size": null
+      },
+      {
+        "id": "196f54a8-5fa7-445b-bcd2-028f9fa79724",
+        "name": "Applications for eligibility for Government funding",
+        "format": "XLSX",
+        "url": "http://www.nssab.qld.edu.au/OpenDataSets/OpenData-fundingapplications.xlsx",
+        "size": null
+      },
+      {
+        "id": "aa1ff26c-d2d1-4894-abe5-c5bad8061075",
+        "name": "Governing bodies of non-state schools",
+        "format": "XLSX",
+        "url": "http://www.nssab.qld.edu.au/OpenDataSets/OpenData-governingbody.xlsx",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "03e462ee-9ad3-4974-a770-e536cf827bd0",
+    "title": "Land Selections 1885-1981",
+    "description": "Registers recording details of land selection. These records are held at Queensland State Archives.",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Queensland State Archives",
+      "land"
+    ],
+    "lastUpdated": "2025-11-11T06:57:54.532807",
+    "discoveredAt": "2026-01-14T01:44:57.340Z",
+    "license": "cc-by-4",
+    "publisher": "Queensland State Archives",
+    "organizationId": "queensland-state-archives-queensland-government",
+    "resources": [
+      {
+        "id": "54cbd1ea-03a8-4b59-b478-526001663226",
+        "name": "Land Selections 1885-1981",
+        "format": "CSV",
+        "url": "https://www.data.qld.gov.au/dataset/03e462ee-9ad3-4974-a770-e536cf827bd0/resource/54cbd1ea-03a8-4b59-b478-526001663226/download/land-selections-1885-1981.csv",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "03e73ca3-d53d-4d40-9ac2-b7769833b670",
+    "title": "Geoscape - Sydney Planning (Polygon) June 2022",
+    "description": "This dataset is the June 2022 release of Geoscape Planning for a single SA2 area (Sydney) with SA2 code (11337).\nPlanning provides detailed planning zone codes and descriptions for parcels of land across Australia. By representing the detailed planning classification for each parcel as well as links to the relevant planning scheme/instrument. Planning provides a simple lookup for the classification on sites nationally, as well as linkages to enable further understanding of a site's potential. Planning is created through combining Geoscape Australia's Cadastre product with Planning Zones defined by a State, Territory or Local Government.\nFor more information regarding Geoscape Planning, please refer to the Data Product Description and the June 2022 Release Notes.\nPlease note: As per the licence for this data, the information is limited to a single Level 2 Statistical Area (SA2) mentioned above as defined by the Australian Bureau of Statistics. If you require additional data beyond a single SA2 for your research, please request a quote from AURIN.\nPlanning zones provide a method to divide land and describe the types of development that may occur at a location, and often describe other developmental requirements such as the height, setback or form of the structures that can be built. Planning zones allow State, Territory and local Governments to facilitate urban planning and control the development of land.\nThrough representing the planning classification from a planning zone at a Cadastre cadastral parcel level, Planning provides a granular representation of the potential for development at each site, alongside URL linkages to enable further research directly from the authoritative definition.\nThis dataset has been restricted to the Sydney - Haymarket - The Rocks SA2 by AURIN. AURIN has extracted the selected SA2 area information from this dataset through using geometries from the May 2022 Geoscape Cadastre release. The dataset, therefore, is a tabular dataset for the selected SA2 area. ",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "BUILT ENVIRONMENT AND DESIGN",
+      "Urban",
+      "regional planning"
+    ],
+    "lastUpdated": "2025-07-31T07:44:59.863170",
+    "discoveredAt": "2026-01-14T00:14:22.649Z",
+    "license": "DL-Geoscape",
+    "publisher": "Geoscape",
+    "organizationId": "geoscape-australian-urban-research-infrastructure-network",
+    "resources": [
+      {
+        "id": "6959c8ca-4790-4a9a-9835-9aec69c36f52",
+        "name": "AURIN Download Manager",
+        "format": "HTML",
+        "url": "https://adp-access.aurin.org.au/public/download/?uri=https://adp-gatekeeper.prod.aurin-prod.cloud.edu.au/geoserver/wfs?request=GetFeature&typename=datasource-Geoscape-UoM_AURIN_DB:geoscape_sydney_planning_jun22",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "03e84472-940d-46c9-b235-cc25f0d1800d",
+    "title": "Wyndham City Public WiFi locations",
+    "description": "Wyndham City Public WiFi locations",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "WiFi",
+      "Wyndham",
+      "public"
+    ],
+    "lastUpdated": "2025-08-26T12:54:05.167253",
+    "discoveredAt": "2026-01-14T03:15:49.616Z",
+    "license": "Creative Commons Attribution 2.5 Australia",
+    "publisher": "Wyndham City Council",
+    "organizationId": "wyndham-city-council",
+    "resources": [
+      {
+        "id": "0752537b-e915-48cb-9957-0582d6e4dfb8",
+        "name": "Wyndham City Public WiFi locations",
+        "format": "SHAPE FILE .SHP",
+        "url": "https://data.gov.au/data/dataset/03e84472-940d-46c9-b235-cc25f0d1800d/resource/0752537b-e915-48cb-9957-0582d6e4dfb8/download/public-wifi.zip",
+        "size": null
+      },
+      {
+        "id": "0a7bfb0a-565f-42e2-a52e-19b93ca59111",
+        "name": "Wyndham City Public WiFi locations",
+        "format": "GEOJSON",
+        "url": "https://data.gov.au/data/dataset/03e84472-940d-46c9-b235-cc25f0d1800d/resource/0a7bfb0a-565f-42e2-a52e-19b93ca59111/download/wifi.json",
+        "size": null
+      },
+      {
+        "id": "7273fa9d-b08a-4eee-ab2d-3bf64e770b05",
+        "name": "Wyndham City Public WiFi locations - Preview this Dataset (WMS)",
+        "format": "WMS",
+        "url": "https://data.gov.au/geoserver/wyndham-city-public-wifi-locations/wms?request=GetCapabilities",
+        "size": null
+      },
+      {
+        "id": "6e33bc3d-4feb-4a73-87f4-4d7479a9cf63",
+        "name": "Wyndham City Public WiFi locations Web Feature Service API Link",
+        "format": "WFS",
+        "url": "https://data.gov.au/geoserver/wyndham-city-public-wifi-locations/wfs",
+        "size": null
+      },
+      {
+        "id": "8a92f8c8-59d8-4c8b-9c35-88b6c6d71242",
+        "name": "Wyndham City Public WiFi locations GeoJSON",
+        "format": "GEOJSON",
+        "url": "https://data.gov.au/geoserver/wyndham-city-public-wifi-locations/wfs?request=GetFeature&typeName=ckan_03e84472_940d_46c9_b235_cc25f0d1800d&outputFormat=json",
+        "size": null
+      }
+    ]
+  },
+  {
     "id": "03e9d0fa-bf1d-4e25-a0ac-0f04bd22367b",
     "title": "Footpath Segments",
     "description": "This dataset shows polygon locations of the footpath segments inventoried by the City of Perth. The footpath segment data was collected from as constructed drawings and old survey maps. At least 95% of the locational data for the road segment is accurate to within a few meters. Some errors and/or duplicate data may exist.",
@@ -1695,6 +2198,74 @@
         "name": "Maritime Alerts Reporting Platform - API Documentation",
         "format": "PDF",
         "url": "https://opendata.transport.nsw.gov.au/data/dataset/96985560-9db3-44c0-8dc3-3be464e793f9/resource/50078770-2746-432a-8cbb-efff268c673d/download/marp-api-specification-v1.2.pdf",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "044d82cb-ea1f-47fc-85ae-27c55a9093e5",
+    "title": "DYJVS - Contract Disclosure Report",
+    "description": "Disclosure of contracts greater than $10,000 (incl. GST) as per DHPW Disclosure Guidelines for the Department of Youth Justice and Victim Support ",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "finance",
+      "governement",
+      "services"
+    ],
+    "lastUpdated": "2025-12-19T21:23:51.925297",
+    "discoveredAt": "2026-01-14T03:16:14.514Z",
+    "license": "cc-by-4",
+    "publisher": "Youth Justice and Victim Support",
+    "organizationId": "youth-justice-and-victim-support-queensland-government",
+    "resources": [
+      {
+        "id": "a7661091-c0f1-4161-ab2b-72daf1086025",
+        "name": "DYJVS Contract Disclosure Report Oct 25",
+        "format": "CSV",
+        "url": "https://www.families.qld.gov.au/_media/documents/open-data/dyjvs-contract-disclosure-oct-2025.csv",
+        "size": null
+      },
+      {
+        "id": "f9034e81-9988-43eb-a1e6-dda86134f45f",
+        "name": "DYJVS Contract Disclosure Report Sep 25",
+        "format": "CSV",
+        "url": "https://www.families.qld.gov.au/_media/documents/open-data/dyjvs-contract-disclosure-sep-2025.csv",
+        "size": null
+      },
+      {
+        "id": "27c17f4f-8b1b-48f9-bcbf-7f67c08fbc0c",
+        "name": "DYJVS Contract Disclosure Report Aug 25",
+        "format": "CSV",
+        "url": "https://www.families.qld.gov.au/_media/documents/open-data/dyjvs-contract-disclosure-aug-2025.csv",
+        "size": null
+      },
+      {
+        "id": "95fbc46d-5b18-4a54-afa7-ca135a9bc1a8",
+        "name": "DYJVS Contract Disclosure Report Jul 25",
+        "format": "CSV",
+        "url": "https://www.families.qld.gov.au/_media/documents/open-data/dyjvs-contract-disclosure-jul-2025.csv",
+        "size": null
+      },
+      {
+        "id": "f038212a-8c20-4293-a1f5-16e854250393",
+        "name": "DYJVS Contract Disclosure Report Jun 25",
+        "format": "CSV",
+        "url": "https://www.families.qld.gov.au/_media/documents/open-data/dyjvs-contract-disclosure-jun-25.csv",
+        "size": null
+      },
+      {
+        "id": "b0eb9075-785e-4758-8613-a7b5f7a2418f",
+        "name": "DYJVS Contract Disclosure Report May 25",
+        "format": "CSV",
+        "url": "https://www.families.qld.gov.au/_media/documents/open-data/dyjvs-contract-disclosure-may-25.csv",
+        "size": null
+      },
+      {
+        "id": "41a3f6f3-80ea-4576-ac27-8b4a9f397f4e",
+        "name": "DYJVS VS Contract Disclosure Report Nov 24 to Apr 25",
+        "format": "CSV",
+        "url": "https://www.families.qld.gov.au/_media/documents/open-data/dyjvs-vs-contract-disclosure-nov-24-apr-25.csv",
         "size": null
       }
     ]
@@ -4729,6 +5300,38 @@
     ]
   },
   {
+    "id": "0502849f-1f8e-4abc-b1ad-9561cd5154f3",
+    "title": "Victorian Public Sector Employees 2021 - Executive profile",
+    "description": "This file has the following executive profile measures for the Victorian public sector:\n•   executive headcount  by industry, gender, age group and classification band\n•   executive median remuneration and headcount for each remuneration cohort, by industry group, gender and classification band.\nIt also has:\n•   total number of executives for each departmental portfolio group by gender\n•   total number of public service executives for each public service organisation by gender.\nVictorian Public Sector Commission (VPSC) publishes this data set covering June 2015 to June 2021.\nFigures are sourced from the VPSC annual workforce and executive data collections covering over 1800 Victorian public sector employers.",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Employees",
+      "Employement",
+      "Executive Officer",
+      "FTE",
+      "VPSC",
+      "Victorian Public Sector Commission",
+      "Victorian Public Service",
+      "Workforce",
+      "profile"
+    ],
+    "lastUpdated": "2025-06-25T16:48:51.056742",
+    "discoveredAt": "2026-01-14T03:12:17.085Z",
+    "license": "Creative Commons Attribution 3.0 Australia",
+    "publisher": "Victorian Public Sector Commission",
+    "organizationId": "victorian-public-sector-commission-victoria-government",
+    "resources": [
+      {
+        "id": "16688f10-442e-4e3c-b3ea-bf3a180ffa7b",
+        "name": "Executive Profile",
+        "format": "XLSX",
+        "url": "https://vpsc.vic.gov.au/wp-content/uploads/2022/03/Executive-Profile.xlsx",
+        "size": null
+      }
+    ]
+  },
+  {
     "id": "050958c6-8eef-4880-a293-4b0d4ebc85d1",
     "title": "Strata Scheme Management",
     "description": "All strata schemes in NSW need to report key information online each year to NSW government on the Strata Portal. Strata Scheme Management API has been developed to enable strata managing agents to report multiple schemes in the Strata Portal and continue the next steps for reporting journey. For more information, please follow details \"https://www.nsw.gov.au/housing-and-construction/strata/annual-reporting/reporting-for-multiple-schemes\" here.",
@@ -5389,6 +5992,56 @@
     ]
   },
   {
+    "id": "0549245a-ae74-49c1-a56d-93118ea1f80e",
+    "title": "Mitchell Shire Water Tanks Slashing",
+    "description": "Map layer showing where Mitchell Shire slashes grass around water tanks",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "CFA",
+      "Environment",
+      "Mitchell Shire",
+      "Water Tanks",
+      "fuel reduction",
+      "slashing"
+    ],
+    "lastUpdated": "2025-11-29T19:29:10.556006",
+    "discoveredAt": "2026-01-14T03:15:46.221Z",
+    "license": "Creative Commons Attribution 3.0 Australia",
+    "publisher": "Mitchell Shire Council",
+    "organizationId": "www-mitchellshirecouncil-vic-gov-au",
+    "resources": [
+      {
+        "id": "9f4652ea-3c13-4473-9cc3-6e8965afd216",
+        "name": "Slashing Water Tanks",
+        "format": "SHP",
+        "url": "https://data.gov.au/data/dataset/0549245a-ae74-49c1-a56d-93118ea1f80e/resource/9f4652ea-3c13-4473-9cc3-6e8965afd216/download/msc-water-tank-slashing.zip",
+        "size": 2525
+      },
+      {
+        "id": "2c4cc4f7-b7bb-48e0-a258-a884f3e87ee1",
+        "name": "Mitchell Shire Water Tanks Slashing - Preview this Dataset (WMS)",
+        "format": "WMS",
+        "url": "https://data.gov.au/geoserver/mitchell-shire-water-tanks-slashing/wms?request=GetCapabilities",
+        "size": null
+      },
+      {
+        "id": "1753354b-8a45-4cde-9f68-6f70c0eee232",
+        "name": "Mitchell Shire Water Tanks Slashing Web Feature Service API Link",
+        "format": "WFS",
+        "url": "https://data.gov.au/geoserver/mitchell-shire-water-tanks-slashing/wfs",
+        "size": null
+      },
+      {
+        "id": "bdc6070a-cb1f-4019-a6ef-94ecc99ae55f",
+        "name": "Mitchell Shire Water Tanks Slashing GeoJSON",
+        "format": "GEOJSON",
+        "url": "https://data.gov.au/geoserver/mitchell-shire-water-tanks-slashing/wfs?request=GetFeature&typeName=ckan_0549245a_ae74_49c1_a56d_93118ea1f80e&outputFormat=json",
+        "size": null
+      }
+    ]
+  },
+  {
     "id": "054a027f-4694-4360-ac38-24effbc7b91b",
     "title": "XB Security Cameras",
     "description": "This interactive app displays the locations of public security cameras installed throughout the City of Perth local government area. These cameras form part of the city's safety and surveillance infrastructure, helping to enhance public safety, crime prevention, and emergency response across key public spaces, streets, and activity precincts.",
@@ -5684,6 +6337,39 @@
         "format": "ZIP",
         "url": "https://data.gov.au/data/dataset/055bed5c-92d8-4b5e-91e5-94e1f2a5e109/resource/33a009fd-0b67-4a2a-9d8d-7e3220bde562/download/fiber_asset_management_pty_ltd_prj0017184c58cdf32.zip",
         "size": 1634
+      }
+    ]
+  },
+  {
+    "id": "055e61a9-3f59-468f-9c2b-1d9a21f13d97",
+    "title": "Sutton Floodplain Risk Management Study and Plan - Damages",
+    "description": "Flood damages",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Bywong Street",
+      "Federal Highway",
+      "McLaughlins Creek",
+      "Middle Street",
+      "Murrumbateman Road",
+      "North Street",
+      "Shingl Hill Way",
+      "Sutton",
+      "Victoria Street",
+      "Yass River"
+    ],
+    "lastUpdated": "2025-12-17T14:36:13.937207",
+    "discoveredAt": "2026-01-14T03:16:10.345Z",
+    "license": "lsba",
+    "publisher": "Yass Valley Council",
+    "organizationId": "yass-valley-council-datansw",
+    "resources": [
+      {
+        "id": "2e3c0580-be1f-4308-be5f-3c9527ad6ae8",
+        "name": "Sutton Floodplain Risk Management Study and Plan",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/468e7983-c152-4e31-b10c-f9b59ab92c8a/resource/829b8f0d-d734-4d20-a9c8-62f886332b7d",
+        "size": null
       }
     ]
   },
@@ -7231,6 +7917,35 @@
     ]
   },
   {
+    "id": "05bc12d7-0c64-465a-b52b-11b3d710e84d",
+    "title": "Walgett - Levee Rehabilitation Review of Works Draft Report",
+    "description": "Complete",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Euroka Street",
+      "Keepit Street",
+      "Montkeila Street",
+      "Namoi River",
+      "Walgett Levee",
+      "Wee Waa Street"
+    ],
+    "lastUpdated": "2025-12-17T14:40:07.974826",
+    "discoveredAt": "2026-01-14T03:12:46.979Z",
+    "license": "lsba",
+    "publisher": "Walgett Shire Council",
+    "organizationId": "walgett-shire-council-datansw",
+    "resources": [
+      {
+        "id": "ca39ca8c-38e2-410b-ad16-0cbdd375b976",
+        "name": "Resource",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/2e0be397-e54e-42ea-baba-2aea418e70ad/resource/fb46eac3-be32-4018-8972-ba2e8dbbf13d",
+        "size": null
+      }
+    ]
+  },
+  {
     "id": "05bef4c2-4ac2-44aa-b937-df892acb093e",
     "title": "VIC DSDBI - Industry Atlas - Businesses by Turnover Size and Industry (SA2) 2011",
     "description": "This dataset provides information about business turnover by size and industry sector for 2011 in Victoria. The data is aggregated to Statistical Area Level 2 (SA2) from the 2011 Australian Statistical Geography Standard (ASGS).\nThe Industry Atlas of Victoria is a graphic snapshot of the State's economy - in Melbourne and regional Victoria. Highly informative maps have been derived from the 2006 Census, supplemented by up-to-date Australian Bureau of Statistics (ABS) data, to provide insight into the number and distribution of businesses, industries and the workforce. The Atlas provides fascinating information and valuable input into future industry policy development and infrastructure planning.",
@@ -7572,6 +8287,28 @@
         "format": "GEOJSON",
         "url": "https://data.gov.au/data/dataset/05d0ec25-b250-4f62-b72e-9512e6d255d2/resource/a8836da3-9b44-4f09-b4c5-a0dce3bed10d/download/central-goldfields-shire-planning-scheme-amendment.json",
         "size": 6519634
+      }
+    ]
+  },
+  {
+    "id": "05e3c17a-246d-430a-b163-c86a0c1c5acf",
+    "title": "WAMSI Node 4.2.2b - Establishment of metropolitan fish indicator regions",
+    "description": "Vital baseline information on the demersal fish assemblages within the metropolitan area was collected used baited-video stations. The sampling was directed using the knowledge of experienced fishermen, and researchers from the Department of Fisheries and UWA. Recent changes to legislation, banning commercial wetline fishing in the Metropolitan area, have provided an important natural laboratory with which to assess the impacts of fishing on the assemblage of demersal fish.\nFrom 5th October 2008 to 12th October 2008 stereo-baited remote underwater video (stereo BRUV) systems were used to sample these areas shown in green in the thumbnail (around Two Rocks).  It provides a multi-species measure of the state of the fish community, including length measurements of the fish observed. This data will form an important baseline with which to assess any changes in the community and to investigate whether they are due to changes in fishing pressure or other impacts, such as climate change.",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [],
+    "lastUpdated": "2025-06-23T03:24:39.743862",
+    "discoveredAt": "2026-01-14T03:14:11.074Z",
+    "license": "Creative Commons Attribution Share-Alike 3.0 Australia",
+    "publisher": "Western Australian Marine Science Institution",
+    "organizationId": "western-australian-marine-science-institution-western-australia-government",
+    "resources": [
+      {
+        "id": "adabb1ab-2aac-49ae-b310-57dca291433d",
+        "name": "Data on Pawsey",
+        "format": "MPG",
+        "url": "https://data.pawsey.org.au/public/?path=/WA Node Ocean Data Network/WAMSI1/Node4/Node4.2/4.2.2b_metro_indicators",
+        "size": null
       }
     ]
   },
@@ -8375,6 +9112,36 @@
         "name": "Active Industry Project Fund Super Round ",
         "format": "XLSX",
         "url": "https://www.data.qld.gov.au/dataset/060b9825-c548-49f9-92bf-011bcd10e43a/resource/311f31ac-5fae-4cff-bb3c-ed248f579d4d/download/active-industry-project-fund-super-round.xlsx",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "06107073-7bf6-4860-a36c-bcf029add7e0",
+    "title": "Brandy & Water Creek Bridge Investigation & Design of Creek Modification - Hazard",
+    "description": "High, medium and low risk precinct",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Allans Creek",
+      "Brandy Creek",
+      "Darragh Drive",
+      "Figtree",
+      "George Fuller Drive",
+      "Hennessy Lane",
+      "Water Creek"
+    ],
+    "lastUpdated": "2025-12-17T14:45:11.209260",
+    "discoveredAt": "2026-01-14T03:15:16.550Z",
+    "license": "lsba",
+    "publisher": "Wollongong City Council",
+    "organizationId": "wollongong-city-council-datansw",
+    "resources": [
+      {
+        "id": "906fcd83-692e-4ff1-a032-a30865aec2f8",
+        "name": "Brandy & Water Creek Bridge Investigation & Design of Creek Modification - Hazard",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/3f6ee135-ed29-46c3-8a02-99f305fb9bca/resource/3538eebb-4e0e-4d35-8a3c-54ed07a7e06b",
         "size": null
       }
     ]
@@ -9253,6 +10020,33 @@
         "name": "CFA_TFB_DISTRICT WFS",
         "format": "WFS",
         "url": "https://opendata.maps.vic.gov.au/geoserver/wfs?request=GetCapabilities&service=WFS",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "06584bd5-d5de-44a3-97e1-1d94e78dfac7",
+    "title": "Gundaroo Flood Study - Hydraulic Model Output",
+    "description": "TUFLOW",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Back Creek",
+      "Gundaroo",
+      "Mcleods Creek",
+      "Yass River"
+    ],
+    "lastUpdated": "2025-12-17T14:54:41.216420",
+    "discoveredAt": "2026-01-14T03:16:10.345Z",
+    "license": "lsba",
+    "publisher": "Yass Valley Council",
+    "organizationId": "yass-valley-council-datansw",
+    "resources": [
+      {
+        "id": "8192dd24-0c8c-4c88-81c6-5070308a9cb9",
+        "name": "Gundaroo Flood Study - Hydraulic Model Output",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/0064a6c7-9944-40c6-bee6-8dd46fe8dd75/resource/8991b7d8-6bb3-41bd-b7b4-9a2dfd749295",
         "size": null
       }
     ]
@@ -10176,6 +10970,36 @@
     ]
   },
   {
+    "id": "069f15da-c42c-4116-b02b-d53eb79b6255",
+    "title": "Railway Culvert Upgrade at Tramway Creek - Detailed Design Report - Final Drawings",
+    "description": "DWG and PDF drawings",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Bulli",
+      "Hewitts",
+      "Illawarra Railway",
+      "Slacky",
+      "Thirroul",
+      "Tramway Creek",
+      "Woodlands Creek"
+    ],
+    "lastUpdated": "2025-12-17T14:57:10.745313",
+    "discoveredAt": "2026-01-14T03:15:16.550Z",
+    "license": "lsba",
+    "publisher": "Wollongong City Council",
+    "organizationId": "wollongong-city-council-datansw",
+    "resources": [
+      {
+        "id": "0b622bf2-0429-415f-85af-703ac760fb04",
+        "name": "Railway Culvert Upgrade at Tramway Creek - Detailed Design Report - Final Drawings",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/76c52530-c8da-48e4-a6b3-7d9c678d9ed5/resource/8e3039d7-db42-485a-93c0-076440fc04a6",
+        "size": null
+      }
+    ]
+  },
+  {
     "id": "06a5f6e2-4137-4a67-b372-7b1effa7163d",
     "title": "Lynham Networks Pty Ltd - Anticipatory notice for multiple project areas - May 2021 (Partially declared)",
     "description": "Statutory Infrastructure Provider (SIP) - Lynham Networks Anticipatory Notice – \r\n\r\nAnticipatory notice given 21 May 2021 and the associated project area data for a contract to provide telecommunications network infrastructure in 77 project areas.\r\n\r\nInfrastructure to be installed: FTTB - Fibre to the basement\r\n\r\nNominated service area  LHN_LT HARDIMAN LOFTS \t 347 Macaulay Rd, Kensington, VIC 3031 declared 17 January 2025\r\n\r\n",
@@ -10446,6 +11270,42 @@
         "name": "Web Mapping Service",
         "format": "WMS",
         "url": "https://public-services.slip.wa.gov.au/public/services/SLIP_Public_Services/DMIRS_Imagery_Service/MapServer/WMSServer",
+        "size": null
+      }
+    ]
+  },
+  {
+    "id": "06bf95b2-0c41-428d-aa1b-52f7af33b13c",
+    "title": "WAMSI 2 - Kimberley Node - 1.2.3 - Distribution, abundance, critical habitat and population growth rates of saltwater crocodile populations in the Kimberley region",
+    "description": "This project aims to:\n\nTo count saltwater crocodiles in the Kimberley region;\nTo survey Kimberley waters that have never been surveyed for crocodiles e.g. Drysdale River and Walcott Inlet\nTo calculate population growth rates in river systems that have been surveyed previously \nStudy geographical variation in abundance and population growth rate between rivers systems\nTo identify critical habitat for saltwater crocodiles in the Kimberley region\n\nLocations for the study include:\n•   King Edward\n•   Drysdale\n•   Walcott Inlet\n•   May (Stokes Bay)\nData stored at ESRI shapefile",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [],
+    "lastUpdated": "2025-06-23T03:25:02.291647",
+    "discoveredAt": "2026-01-14T03:14:11.074Z",
+    "license": "Creative Commons Attribution Share-Alike 3.0 Australia",
+    "publisher": "Western Australian Marine Science Institution",
+    "organizationId": "western-australian-marine-science-institution-western-australia-government",
+    "resources": [
+      {
+        "id": "64af72fb-77c1-4f2b-9203-de55253cf5ae",
+        "name": "Data on Pawsey",
+        "format": ".SHP",
+        "url": "https://data.pawsey.org.au/public/?path=/WA%20Node%20Ocean%20Data%20Network/WAMSI2/KMRP/1.2/1.2.3",
+        "size": null
+      },
+      {
+        "id": "251cfda1-2389-4cd2-a4e1-a0717c86692b",
+        "name": "Link to WAMSI page and final report",
+        "format": "HTML",
+        "url": "https://www.wamsi.org.au/research-site/saltwater-crocodiles",
+        "size": null
+      },
+      {
+        "id": "794b7c7a-b6e8-4370-b1fd-7c232cda5b33",
+        "name": "AIMS NW Atlas WMS link ",
+        "format": "WMS",
+        "url": "https://maps.northwestatlas.org/maps/wamsi/wms?service=WMS&version=1.1.0&request=GetMap&layers=wamsi:WAMSI2_1_2_3_Crocodiles&styles=&bbox=124.9463619,-15.67910384,125.5595279,-14.95385164&width=649&height=768&srs=EPSG:4326&format=application/openlayers",
         "size": null
       }
     ]
@@ -11321,6 +12181,64 @@
     ]
   },
   {
+    "id": "06fd3b39-c81b-4ba4-8064-b157f8f244e9",
+    "title": "Railway Culvert Upgrade at Tramway Creek - Report",
+    "description": "Report and appendices",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Bulli",
+      "Hewitts",
+      "Illawarra Railway",
+      "Slacky",
+      "Thirroul",
+      "Tramway Creek",
+      "Woodlands Creek"
+    ],
+    "lastUpdated": "2025-12-17T15:01:34.831162",
+    "discoveredAt": "2026-01-14T03:15:16.550Z",
+    "license": "lsba",
+    "publisher": "Wollongong City Council",
+    "organizationId": "wollongong-city-council-datansw",
+    "resources": [
+      {
+        "id": "bf02644a-db29-4980-afce-1fb9c2eaef55",
+        "name": " Railway Culvert Upgrade at Tramway Creek - Report",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/7b8320e9-fd97-4553-87da-ed3807ea1945/resource/804675ac-265a-4a17-9471-2cd5b9ec8b24",
+        "size": null
+      },
+      {
+        "id": "0c7d09f1-9f86-48ee-9547-3b852a4cfc38",
+        "name": "Railway Culvert Upgrade at Tramway Creek - Appendix A",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/7b8320e9-fd97-4553-87da-ed3807ea1945/resource/594b35ad-addb-4ae3-88cc-a0828d768417",
+        "size": null
+      },
+      {
+        "id": "8f719293-2078-4df9-83b7-2470cc4b7018",
+        "name": "Railway Culvert Upgrade at Tramway Creek - Detailed Design Report - Appendix B",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/7b8320e9-fd97-4553-87da-ed3807ea1945/resource/9aa03a15-a637-4782-9ac7-85b9effcb69f",
+        "size": null
+      },
+      {
+        "id": "2ea4c9a2-7f09-4712-b0f3-fc225a458712",
+        "name": "Railway Culvert Upgrade at Tramway Creek - Detailed Design Report - Appendix E",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/7b8320e9-fd97-4553-87da-ed3807ea1945/resource/81cf0288-8b7a-4f33-93a7-7470071c1bc8",
+        "size": null
+      },
+      {
+        "id": "085f8f57-7cdc-4192-a5e9-3325deb5d240",
+        "name": "Railway Culvert Upgrade at Tramway Creek - Appendix F",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/7b8320e9-fd97-4553-87da-ed3807ea1945/resource/039ea8de-6e04-4df2-9bc4-084b08a3d9f3",
+        "size": null
+      }
+    ]
+  },
+  {
     "id": "070335ac-2174-4475-ae44-782a9e831fe0",
     "title": "Early Childhood Education and Care Service Census",
     "description": "The Queensland Early Childhood Education and Care Services Census is an annual data collection from the early childhood education and care sector.\nCensus participants include all Queensland government approved early childhood education and care services, including family day care and school aged care, as well as state and non-state schools that provide pre-preparatory (pre-Prep) programs in Aboriginal and Torres Strait Islander communities.\nData includes results from the ECEC Service Census. Includes findings from services, staff and kindergarten programs. Also includes demographic breakdowns.",
@@ -11700,6 +12618,34 @@
         "format": "PDF",
         "url": "https://data.sa.gov.au/data/dataset/072a5adc-934c-41c4-9781-3b5c50daa7b2/resource/d6dca597-72c9-4fc7-a1a0-ceb5214b2f38/download/2024_cat_containment_survey.pdf",
         "size": 1076540
+      }
+    ]
+  },
+  {
+    "id": "072bb280-3738-4a5c-bf9a-4bbdaf91f54b",
+    "title": "Wagga Wagga - Levee Gradient Sensitivity Assessment - Flow and Water Level Measurements",
+    "description": "Flow and Water Level Measurements (Data Extracted from Pinneena V6 by KJL 29/07/04)",
+    "jurisdiction": "Commonwealth",
+    "source": "Data.gov.au",
+    "tags": [
+      "Gobbagombalin Bridge",
+      "Hampden Bridge",
+      "North Wagga Wagga",
+      "Wagga Wagga",
+      "Wiradjuri Bridge"
+    ],
+    "lastUpdated": "2025-12-17T15:02:55.929815",
+    "discoveredAt": "2026-01-14T03:12:34.915Z",
+    "license": "lsba",
+    "publisher": "Wagga Wagga City Council",
+    "organizationId": "wagga-wagga-city-council-datansw",
+    "resources": [
+      {
+        "id": "780be45a-09e9-4d74-9220-d948eb93a237",
+        "name": "Wagga Wagga - Levee Gradient Sensitivity Assessment - Flow and Water Level Measurements",
+        "format": "HTML",
+        "url": "https://flooddata.ses.nsw.gov.au/dataset/22c9f270-bb72-4563-a345-ab685f36d1f2/resource/80c03aa4-a1d6-4d69-b413-9aa32e9131d2",
+        "size": null
       }
     ]
   },
@@ -12513,1553 +13459,6 @@
         "name": "Resource",
         "format": "CSV",
         "url": "https://data.melbourne.vic.gov.au/api/v2/catalog/datasets/commingled-recycling-collected-at-degraves-st-hub-2016/exports/csv",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "075a340e-5967-4ec8-af68-181ae3cb425e",
-    "title": "Townsville City Council Administrative Action Complaints",
-    "description": "Council is committed to a complaints management process which ensures the transparent, fair and timely resolution of complaints. An effective and streamlined method of responding to complaints regarding our services, administrative actions, competitive neutrality, the conduct and performance of councillors and council workers better enables council to provide open and accountable local government.",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "complaint",
-      "complaints reporting"
-    ],
-    "lastUpdated": "2025-11-19T06:09:42.798306",
-    "discoveredAt": "2026-01-14T02:38:28.770Z",
-    "license": "Creative Commons Attribution 4.0 International",
-    "publisher": "Townsville City Council",
-    "organizationId": "townsville-city-council",
-    "resources": [
-      {
-        "id": "eeebc77c-c216-4601-b017-3f472b1c4a38",
-        "name": "Townsville City Council Administrative Action Complaints 2024-2025",
-        "format": "XLSX",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/eeebc77c-c216-4601-b017-3f472b1c4a38/download/administrative-action-complaints-2024_2025.xlsx",
-        "size": 13925
-      },
-      {
-        "id": "c787af4e-83e2-4169-a50a-4149ce45ec9f",
-        "name": "Townsville City Council Administrative Action Complaints 2024-2025",
-        "format": "CSV",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/c787af4e-83e2-4169-a50a-4149ce45ec9f/download/administrative-action-complaints-2024_2025.csv",
-        "size": 573
-      },
-      {
-        "id": "3514a32e-e159-447a-b503-e50ef1b5d0cb",
-        "name": "Townsville City Council Administrative Action Complaints 2023-2024",
-        "format": "XLSX",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/3514a32e-e159-447a-b503-e50ef1b5d0cb/download/adminstrative-action-complaints-2023_2024.xlsx",
-        "size": 13012
-      },
-      {
-        "id": "472b6a56-7b9d-48dc-9694-12e52ad16d11",
-        "name": "Townsville City Council Administrative Action Complaints 2023-2024",
-        "format": "CSV",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/472b6a56-7b9d-48dc-9694-12e52ad16d11/download/adminstrative-action-complaints-2023_2024.csv",
-        "size": 897
-      },
-      {
-        "id": "d394e393-2366-4022-bab8-1b195f5ec277",
-        "name": "Townsville City Council Administrative Action Complaints 2022-2023",
-        "format": "XLSX",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/d394e393-2366-4022-bab8-1b195f5ec277/download/adminstrative-action-complaints-2022_2023.xlsx",
-        "size": 12867
-      },
-      {
-        "id": "ce81389c-63d5-4e7c-a5a5-eced8cd754fd",
-        "name": "Townsville City Council Administrative Action Complaints 2022-2023",
-        "format": "CSV",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/ce81389c-63d5-4e7c-a5a5-eced8cd754fd/download/adminstrative-action-complaints-2022_2023.csv",
-        "size": 774
-      },
-      {
-        "id": "dc0d5a20-2c2e-4b24-bf84-0830464009fe",
-        "name": "Townsville City Council Administrative Action Complaints 2021-2022",
-        "format": "XLSX",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/dc0d5a20-2c2e-4b24-bf84-0830464009fe/download/adminstrative-action-complaints-2021_2022.xlsx",
-        "size": 12896
-      },
-      {
-        "id": "7f600ce8-1e72-403b-88af-2dfc5b6c323c",
-        "name": "Townsville City Council Administrative Action Complaints 2021-2022",
-        "format": "CSV",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/7f600ce8-1e72-403b-88af-2dfc5b6c323c/download/adminstrative-action-complaints-2021_2022.csv",
-        "size": 653
-      },
-      {
-        "id": "135fdb9b-a2e9-4630-9c17-f6b7a4b1390f",
-        "name": "Townsville City Council Administrative Action Complaints 2020-2021",
-        "format": "XLSX",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/135fdb9b-a2e9-4630-9c17-f6b7a4b1390f/download/adminstrative-action-complaints-2020_2021.xlsx",
-        "size": 12707
-      },
-      {
-        "id": "f38e507b-b00d-40b4-aeeb-f2096790edcc",
-        "name": "Townsville City Council Administrative Action Complaints 2020-2021",
-        "format": "CSV",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/f38e507b-b00d-40b4-aeeb-f2096790edcc/download/adminstrative-action-complaints-2020_2021.csv",
-        "size": 524
-      },
-      {
-        "id": "b68ecc71-a7f3-4a48-bac9-906db9d48fcb",
-        "name": "Townsville City Council Administrative Action Complaints 2019-2020",
-        "format": "XLSX",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/b68ecc71-a7f3-4a48-bac9-906db9d48fcb/download/adminstrative-action-complaints-2019_2020.xlsx",
-        "size": 12460
-      },
-      {
-        "id": "823b2db3-542c-4b87-8c32-c3908b7149e5",
-        "name": "Townsville City Council Administrative Action Complaints 2019-2020",
-        "format": "CSV",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/823b2db3-542c-4b87-8c32-c3908b7149e5/download/adminstrative-action-complaints-2019_2020.csv",
-        "size": 668
-      },
-      {
-        "id": "49399202-5214-4a02-bd79-d8bae0cb78a0",
-        "name": "Townsville City Council Administrative Action Complaints",
-        "format": "XLSX",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/49399202-5214-4a02-bd79-d8bae0cb78a0/download/administrative-action-complaints.xlsx",
-        "size": 10029
-      },
-      {
-        "id": "1e029e2b-5099-411d-afbb-a0f78e8ade38",
-        "name": "Townsville City Council Administrative Action Complaints",
-        "format": "CSV",
-        "url": "https://data.gov.au/data/en/dataset/075a340e-5967-4ec8-af68-181ae3cb425e/resource/1e029e2b-5099-411d-afbb-a0f78e8ade38/download/administrative-action-complaints.csv",
-        "size": 356
-      }
-    ]
-  },
-  {
-    "id": "0762a6ad-1da2-49ef-babb-27f752ecc2ab",
-    "title": "National Broadband Network - Connections by Technology Type (Polygon) - July 2020",
-    "description": "This dataset presents the technology planned or delivered for premises or areas by NBN Co, and the availability of the NBN Co network at a premises. It provides data related to the technology type, service status and ready for service date at locations throughout the network. The data represented here was prepared as at 1 July 2020, and may be subject to change over time.\nThe copyright in the data is owned by NBN Co, and users must comply with the terms of use for the data as set out on data.gov.au.\nAURIN has combined the original KML files of different technology types into one dataset and split the Description attribute into the columns of Ready for Service Date, Area ID, Service Status, and Technology Type.",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "Civil engineering",
-      "Communications engineering",
-      "Data communications",
-      "ENGINEERING",
-      "Infrastructure engineering",
-      "Optical fibre communication systems",
-      "Satellite communications",
-      "Wireless communication systems",
-      "asset management",
-      "incl. microwave",
-      "millimetrewave",
-      "technologies"
-    ],
-    "lastUpdated": "2025-07-31T07:57:23.513369",
-    "discoveredAt": "2026-01-14T00:19:38.133Z",
-    "license": "CC-BY-2.5-AU",
-    "publisher": "Government of the Commonwealth of Australia - Department of Infrastructure, Transport, Regional Development and Communications",
-    "organizationId": "government-of-the-commonwealth-of-australia-department-of-infrastructure-transport-regional-developm",
-    "resources": [
-      {
-        "id": "d1da6c20-cc5f-4231-86a7-6cd965476f59",
-        "name": "AURIN Download Manager",
-        "format": "HTML",
-        "url": "https://adp-access.aurin.org.au/public/download/?uri=https://adp-gatekeeper.prod.aurin-prod.cloud.edu.au/geoserver/wfs?request=GetFeature&typename=datasource-AU_Govt_DITRDC-UoM_AURIN_DB:nbn",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "076316ef-7977-41d0-a693-b71d60da3c2c",
-    "title": "BDM Data - Births Registrations",
-    "description": "BDM Births Registrations Data\nWider data sets are available on request. If you require more granular data or different criteria Contact us",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "BDM",
-      "bdm",
-      "birth certificates",
-      "births",
-      "gender",
-      "hospital",
-      "parent1",
-      "postcode",
-      "registry",
-      "residential postcode"
-    ],
-    "lastUpdated": "2025-09-17T21:13:44.182827",
-    "discoveredAt": "2026-01-14T00:51:50.567Z",
-    "license": "Creative Commons Attribution 3.0 Australia",
-    "publisher": "NSW Registry of Births Deaths and Marriages",
-    "organizationId": "nsw-registry-of-births-deaths-and-marriages-datansw",
-    "resources": [
-      {
-        "id": "1300b7c0-c9f9-462e-a40e-12c6dcb2b68b",
-        "name": "Births by Gender",
-        "format": "CSV",
-        "url": "https://data.nsw.gov.au/data/dataset/076316ef-7977-41d0-a693-b71d60da3c2c/resource/1300b7c0-c9f9-462e-a40e-12c6dcb2b68b/download/births-by-gender.csv",
-        "size": 261
-      },
-      {
-        "id": "b9ea6847-51d8-42c2-9d22-68886fa7e8b8",
-        "name": "Births By Hospital (Top 10 per year)",
-        "format": "CSV",
-        "url": "https://data.nsw.gov.au/data/dataset/076316ef-7977-41d0-a693-b71d60da3c2c/resource/b9ea6847-51d8-42c2-9d22-68886fa7e8b8/download/births-by-hospital-top-10.csv",
-        "size": 3824
-      },
-      {
-        "id": "265a4abd-a18c-47e3-a35e-72fccae61980",
-        "name": "Parent 1 Country of Birth (Top 10 per year)",
-        "format": "CSV",
-        "url": "https://data.nsw.gov.au/data/dataset/076316ef-7977-41d0-a693-b71d60da3c2c/resource/265a4abd-a18c-47e3-a35e-72fccae61980/download/parent-1-countries-of-birth-top-10.csv",
-        "size": 2560
-      },
-      {
-        "id": "7f0a7ef4-2bd0-4778-8884-06c7fb1a3873",
-        "name": "Parent 2 Country of Birth (Top 10 per year)",
-        "format": "CSV",
-        "url": "https://data.nsw.gov.au/data/dataset/076316ef-7977-41d0-a693-b71d60da3c2c/resource/7f0a7ef4-2bd0-4778-8884-06c7fb1a3873/download/parent-2-countries-of-birth-top-10.csv",
-        "size": 2559
-      },
-      {
-        "id": "a75d8058-f45b-4ae9-8ede-103b7fc0735e",
-        "name": "Parent 1 Residential Postcode (Top 10 per year)",
-        "format": "CSV",
-        "url": "https://data.nsw.gov.au/data/dataset/076316ef-7977-41d0-a693-b71d60da3c2c/resource/a75d8058-f45b-4ae9-8ede-103b7fc0735e/download/parent1-residential-postcode-top-10.csv",
-        "size": 2001
-      },
-      {
-        "id": "8258ed24-a292-4810-8d37-02288688b234",
-        "name": "Births by Parent1 Residential Postcode",
-        "format": "CSV",
-        "url": "https://data.nsw.gov.au/data/dataset/076316ef-7977-41d0-a693-b71d60da3c2c/resource/8258ed24-a292-4810-8d37-02288688b234/download/births-by-parent1-respostcode.csv",
-        "size": 54226
-      }
-    ]
-  },
-  {
-    "id": "076f28a7-d7a4-4f23-b7f3-9c98b7d68537",
-    "title": "Coogee Bay Floodplain Risk Management Study and Plan - Floor Level Survey",
-    "description": "<ul>\n<li>Floor level survey</li>\n<li>Ground level survey</li>\n<li>Survey photos</li>\n<li>Survey levels</li>\n</ul>",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "Coogee",
-      "Coogee Bay",
-      "Randwick"
-    ],
-    "lastUpdated": "2025-12-17T15:05:05.199514",
-    "discoveredAt": "2026-01-14T01:45:12.302Z",
-    "license": "lsba",
-    "publisher": "Randwick City Council",
-    "organizationId": "randwick-city-council-datansw",
-    "resources": [
-      {
-        "id": "040e0965-2686-41e9-8c23-c7d3f416a573",
-        "name": "Coogee Bay Floodplain Risk Management Study and Plan - Floor Level Survey",
-        "format": "HTML",
-        "url": "https://flooddata.ses.nsw.gov.au/dataset/65924f9b-6155-49e5-acfb-fef4b4b9bbcf/resource/04b1e704-d542-4c04-8d61-735a96294458",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "07711421-26d4-4ee3-82a6-14ac72369269",
-    "title": "Benthic survey of Dugong and Turtle seagrass habitats in the North-West Torres Strait for November 2015 and January 2016 (NESP TWQ 3.5, TropWATER, JCU)",
-    "description": "This dataset summarises benthic surveys of seagrass for Dugong and Turtle habitats in the North-West Torres Strait for November 2015 and January 2016.  The Site data describes seagrass at 853 sites; while the Meadow data describes seagrass at 34 individual meadows.  The data includes information on seagrass species, biomass, diversity, and BMI and algae percent cover.  The dataset is available as shapefiles, GIS layer packages, and/or a CSV file.\n\n\nMethods:\n\nThe sampling methods used to study, describe and monitor seagrass meadows were developed by the TropWATER Seagrass Group and tailored to the location and habitat surveyed; these are described in detail in the relevant publications (https://research.jcu.edu.au/tropwater). \n\n1. Location - Latitude and longitude was recorded by GPS at each site. Depth was recorded when sampling by boat and converted to depth below mean sea level (dbMSL) in metres.\n\n2 Seagrass metrics - Above-ground biomass was determined using a ¿visual estimates of biomass¿ technique (Mellors, 1991) using trained observers. A linear regression was calculated for the relationship between the observer ranks and the harvested values. This regression was used to calculate above-ground biomass for all estimated ranks made from the survey sites. Biomass ranks were then converted into above-ground biomass estimates in grams dry weight per square metre (gdw m-2). Observers ranked seagrass biomass, and the percent contribution of each species to that biomass, using video transects, grabs, free divers, and helicopter:\n* Video transect: Commonly used for subtidal meadows sampled from larger boats. At each transect site an underwater CCTV camera system was lowered from the vessel to the bottom. For each transect the camera was towed at drift speed (less than one knot) for approximately 100m. Footage was observed on a TV monitor and digitally recorded. The video was paused at ten random time frames and an observer ranked seagrass biomass and species composition. On completion of the video analysis, the video observer ranked five additional quadrats that had been previously videoed for calibration. These quadrats were videoed in front of a stationary camera, then harvested, dried and weighed. \n* Helicopter: Commonly used for intertidal surveys. At each site seagrass above-ground biomass and species composition were estimated from three 0.25 m2 quadrats placed randomly within a 10m2 circular area. Seagrass percent cover and sediment type were recorded at each site. The ¿visual estimates of biomass¿ technique when applied to helicopter surveys (and free diving/camera drops ¿ see below) involves ranking while referring to a series of quadrat photographs of similar seagrass habitats for which the above-ground biomass has previously been measured. Three separate biomass scales were used: low-biomass, high-biomass, and Enhalus-biomass. The relative proportion (percentage) of the above-ground biomass of each seagrass species within each survey quadrat was also recorded. Field biomass ranks were converted into above-ground biomass estimates in grams dry weight per square metre (gdw m-2). At the completion of sampling each observer ranked a series of calibration quadrats as per video transect surveys.\n* Camera drop/free diving: Commonly used for shallow subtidal meadows sampled from a small boat. Sampling follows the same protocol as helicopter surveys but the three quadrats were either assessed by a free diver with quadrat, or by an underwater CCTV camera system camera attached to a frame. Video footage was observed on a TV monitor and seagrass ranked in real time, with the camera frame serving as a quadrat.\n* van Veen grab: Commonly used for shallow subtidal meadows sampled from a small boat in conjunction with camera drops, or to record seagrass presence/absence where visibility was too poor for camera drops. A sample of seagrass was collected using a van Veen grab (grab area 0.0625 m2) to identify species present at each site. Species identified from the grab sample were used to inform species composition assessments made from the video drops (Kuo et al., 1989).\n\n3 Benthic macro-invertebrates - A visual estimate of benthic macro-invertebrate (BMI) percent cover was recorded at each shallow subtidal and intertidal site according to four broad taxonomic groups:\n* Hard corals ¿ All scleractinian corals including massive, branching, tabular, digitate and mushroom.\n* Soft corals ¿ All alcyonarian corals, i.e. corals lacking a hard limestone skeleton.\n* Sponges\n* Other BMI ¿ Any other BMI identified, e.g. hydroids, ascidians, barnacles, oysters, molluscs. Other BMI are listed in the ¿comments¿ column of the GIS site layer.\n\n4 Algae - A visual estimate of algae percent cover was recorded at each shallow subtidal and intertidal site. When present, algae were categorised into five functional groups and the percent contribution of each functional group was estimated:\n* Erect macrophytes ¿ Macrophytic algae with an erect growth form and high level of cellular differentiation, e.g. Sargassum, Caulerpa and Galaxaura species.\n* Erect calcareous ¿ Algae with erect growth form and high level of cellular differentiation containing calcified segments, e.g. Halimeda species.\n* Filamentous ¿ Thin, thread-like algae with little cellular differentiation.\n* Encrusting ¿ Algae that grows in sheet-like form attached to the substrate or benthos, e.g. coralline algae.\n* Turf mat ¿ Algae that forms a dense mat on the substrate.\n\n\nFormat: \n\nThis dataset consists of two (2) GIS layers: a Site layer and a Meadow layer.\n\n1. Site layer\nThis layer contains data collected at 853 individual survey sites mapped in 2015-2016, and includes:\n* Temporal details - survey date and time.\n* Spatial details ¿ latitude/longitude, dbMSL, sediment type, NRM region, site depth (depth below mean sea level, m).\n* Habitat information ¿ seagrass presence absence, dominant seagrass species, presence/absence of individual species, seagrass above-ground biomass (for each species), Shannon-Weaver seagrass diversity values, dugong feeding trail presence/absence (intertidal sites only), and percent cover for seagrass, algae groups and benthic macro-invertebrates.\n* Sampling methods, any relevant comments, and data custodian.\n\nThis layer is presented as five (5) alternate layer packages based on symbology from specific columns:\n* Seagrass presence/absence (Torres Strait seagrass present absent NESP 2015.lpk)\n* Seagrass species composition (Torres Strait seagrass species composition NESP 2015.lpk)\n* Dugong feeding trail presence absence (Torres Strait dugong feeding trail presence absence NESP 2015.lpk) (Note: this layer only includes site information for intertidal helicopter surveys)\n* Algae cover (Torres Strait algae cover NESP 2015.lpk)\n* Benthic macro-invertebrate cover (Torres Strait benthic macro-invertebrate cover NESP 2015.lpk)\n\n\n2. Meadow layer\nSeagrass presence/absence site data was used to construct the polygon (meadow) layer. The meadow layer provides summary information for all sites within the meadow, and includes:\n* Spatial details ¿ depth range of sites and meadow location.\n* Habitat information ¿ seagrass species present, meadow community type and density, mean meadow biomass + standard error (s.e.), meadow area + reliability estimate (R) and number of sites within the meadow. \n* Sampling methods and any relevant comments.\n\nThis layer is presented as three (3) alternate layer packages, including interpolation layers which were created using site data and meadow boundaries to describe spatial variation in biomass, species diversity and depth gradients.  The layers are:\n* \"Torres Strait meadow community type NESP 2015.lpk\" - Includes 34 individual seagrass meadows mapped in  2015-2016 with information including individual meadow ID, meadow location (intertidal/shallow subtidal/subtidal), meadow density based on mean biomass, meadow area, dominant seagrass species, seagrass species present, survey dates, survey method, and data custodian. ESRI and Landsat satellite image basemaps were used as background source data to check meadow and site boundaries, and re-map where required.\n* \"Torres Strait biomass (g dw m-2) interpolation NESP 2015.lpk\" - An inverse distance weighted interpolation (IDW) was applied to seagrass site data to describe spatial variation in biomass across each meadow and throughout the north-west Torres Strait region. \n* \"Torres Strait Shannon Weaver diversity interpolation NESP 2015.lpk\" - An inverse distance weighted interpolation (IDW) was applied to seagrass site data to describe spatial variation in seagrass species diversity across each meadow and throughout the north-west Torres Strait region. The Shannon-Weaver index is a mathematical measure of species diversity that uses species richness (the number of species present, where a score of 0 = one species present) and the relative abundance of different species (Spellerberg et al., 2003).\n\n\nData Dictionary:\n* Meadow location was classed according to whether meadows were intertidal (all sites surveyed by helicopter), shallow subtidal (generally an extension of an intertidal meadow into shallow waters <5m deep), or subtidal (no intertidal sites adjoining the meadow).\n* Seagrass community types were determined according to species composition within a meadow. Species composition was based on the percent each species¿ biomass contributed to mean meadow biomass. A standard nomenclature system was used to categorize each meadow (see Table 1 \"Nomenclature for seagrass community types\" in final report). This nomenclature also included a measure of meadow density categories (light, moderate, dense) determined by mean biomass of the dominant species within the meadow (see Table 2 \"Density categories and mean above-ground biomass ranges for each species used in determining seagrass community density\" in final report).\n* Mapping precision estimates (in metres) were based on the mapping method used for that meadow (Table 3 \"Mapping precision and methods for seagrass meadows\" in final report). Mapping precision estimates ranged from 1-10m for intertidal seagrass meadows to >100m for patchy subtidal meadows. Subtidal meadow mapping precision estimates were based on the distance between sites with and without seagrass. The mapping precision estimate was used to calculate an error buffer around each meadow; the area of this buffer is expressed as a meadow reliability estimate (R) in hectares. \n\nFurther information can be found in this publication:\nCarter, A. B. and Rasheed, M. A. (2016) Assessment of Key Dugong and Turtle Seagrass Resources in North-west Torres Strait. Report to the National Environmental Science Programme and Torres Strait Regional Authority. Reef and Rainforest Research Centre Limited, Cairns (40 pp).\n\n\nReferences:\n\nKuo, J., & McComb, A. J. (1989). Seagrass taxonomy, structure and development. In A. W. D. Larkum, A. J. McComb, & S. A. Shepherd (Eds.), Biology of seagrasses: a treatise on the biology of seagrasses with special reference to the Australian Region (pp. 6-73). New York: Elsevier.\n\nMellors, J. E. (1991). An evaluation of a rapid visual technique for estimating seagrass biomass. Aquatic Botany, 42(1), 67-73. \n\nSpellerberg, I. F., & Fedor, P. J. (2003). A tribute to Claude Shannon (1916¿2001) and a plea for more rigorous use of species richness, species diversity and the ¿Shannon¿Wiener¿ Index. Global Ecology and Biogeography, 12(3), 177-179. \n\n\nData Location:\n\nThis dataset is saved in the eAtlas enduring data repository at: data\\NESP1\\3.5_North-West-TS_Seagrass",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "marine"
-    ],
-    "lastUpdated": "2023-08-11T02:20:56.245819",
-    "discoveredAt": "2026-01-14T02:44:51.900Z",
-    "license": "Creative Commons Attribution 3.0 Australia",
-    "publisher": "TropWATER, James Cook University (JCU)",
-    "organizationId": "tropwater-james-cook-university-jcu",
-    "resources": [
-      {
-        "id": "2b6de2d4-f833-45c7-bc1c-1885a5a8a5a2",
-        "name": "Project Final Report [PDF]",
-        "format": "PDF",
-        "url": "http://nesptropical.edu.au/wp-content/uploads/2016/04/NESP-TWQ-3.5-FINAL-REPORT.pdf",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "07712e9d-9eee-4353-a16f-3e0290c2a0ae",
-    "title": "Landsat Imagery 2009 (LGATE-442)",
-    "description": "Dry season cloud free Landsat imagery (30m ground pixel) is combined annually to provide a whole of Western Australia imagery mosaic. These mosaics start in 1988 to current day providing data for time series analysis and whole of state imagery.\n\nClick <a href=\"https://data.wa.gov.au/land-monitor\">here</a> for more information.",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "Land",
-      "LandMonitor",
-      "Monitor",
-      "class",
-      "imagery",
-      "trend"
-    ],
-    "lastUpdated": "2026-01-07T07:44:14.199187",
-    "discoveredAt": "2026-01-14T00:29:03.660Z",
-    "license": "custom_other",
-    "publisher": "Landgate",
-    "organizationId": "landgate-western-australia-government",
-    "resources": [
-      {
-        "id": "07712e9d-9eee-4353-a16f-3e0290c2a0ae",
-        "name": "Landsat_picture_mosaic_metadata",
-        "format": "DOCX",
-        "url": "https://catalogue.data.wa.gov.au/dataset/07712e9d-9eee-4353-a16f-3e0290c2a0ae/resource/07712e9d-9eee-4353-a16f-3e0290c2a0ae/download/landsat_picture_mosaic_metadata.docx",
-        "size": null
-      },
-      {
-        "id": "806cb090-628b-42ae-aaf3-9e70b19a5ea5",
-        "name": "ArcGIS Server Map Service",
-        "format": "API ARCGIS SERVER MAP SERVICE",
-        "url": "https://public-services.slip.wa.gov.au/public/rest/services/Land_Monitor/Land_Monitor/MapServer/13",
-        "size": null
-      },
-      {
-        "id": "2b052eef-56a5-4296-8a74-96969c4fdcac",
-        "name": "Web Mapping Service",
-        "format": "WMS",
-        "url": "https://public-services.slip.wa.gov.au/public/services/Land_Monitor/Land_Monitor/MapServer/WMSServer",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "07773a34-7c02-4c08-a890-29e357e22dbd",
-    "title": "2010 Index of Stream Condition - Vegetation Width 100m Section Summary Table",
-    "description": "The ISC2010_VEGETATION_WIDTH_S table is the Statistical Summary table for the Vegetation Width Metric at the 100m Section level.\n\nThe ISC2010_VEGETATION_WIDTH_S table is designed to JOIN to the ISC2010_RIVER_CENTRELINES_S feature class.\n\nRiver condition in Victoria is assessed every 5 years using the Index of Stream Condition (ISC). The Department of Environment and Primary Industries (DEPI) developed a methodology to assess the Physical Form and Riparian Vegetation components of the ISC using remote sensing data, specifically LIDAR and aerial photography. \n\nA State Wide mapping project was undertaken in 2010-13 to accurately map the Physical Form and Riparian Vegetation metrics of the ISC . Other ISC metrics were not assessed in the project and were derived from other sources.\n\nThe Physical Form and Riparian Vegetation Metric  products are a combination of mapped Vector and Raster data as well as Tabular Summary Statistics about the mapped features. In the context of the project, the term Metrics is used to refer to both the mapped features and the summary statistics. \n\nRemote sensing data used includes 15cm true colour and infra-red aerial photography and four return multi-pulse LiDAR data.  This source data was used to derive a variety of Raster data sets including Digital Terrain Models, Slope, Vegetation Height and Vegetation Cover.  The Digital Terrain and Slope rasters were used to map Physical Form metrics including Stream Bed, Top of Bank and River Centre Lines while the Vegetation Height and Cover rasters were used to map the Riparian Vegetation metrics.\nThe Project Report \"Aerial Remote Sensing for Physical Channel Form and Riparian Vegetation Mapping\" describes the remote sensing and mapping approach used to create this data set.",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "elevation",
-      "imagery base maps earth cover",
-      "inland waters",
-      "transportation"
-    ],
-    "lastUpdated": "2025-12-20T03:44:30.233396",
-    "discoveredAt": "2026-01-13T23:56:23.427Z",
-    "license": "Creative Commons Attribution 3.0 Australia",
-    "publisher": "Department of Energy, Environment and Climate Action",
-    "organizationId": "department-of-energy-environment-and-climate-action-victoria-government",
-    "resources": [
-      {
-        "id": "858e6605-b7b3-4de3-bc90-5faf2f725e2e",
-        "name": "ISC2010VEGETATIONWIDTHS GDB",
-        "format": "GDB",
-        "url": "https://datashare.maps.vic.gov.au/search?md=e3b65846-2af2-5d0c-b7a6-c64c1b9934fe",
-        "size": 0
-      },
-      {
-        "id": "812fa476-3105-48f3-b500-076266cb2674",
-        "name": "ISC2010VEGETATIONWIDTHS SHP",
-        "format": "SHP",
-        "url": "https://datashare.maps.vic.gov.au/search?md=e3b65846-2af2-5d0c-b7a6-c64c1b9934fe",
-        "size": 0
-      },
-      {
-        "id": "e89e68b9-8a5d-426d-a243-13fcee3cd4d1",
-        "name": "ISC2010VEGETATIONWIDTHS MIF",
-        "format": "MIF",
-        "url": "https://datashare.maps.vic.gov.au/search?md=e3b65846-2af2-5d0c-b7a6-c64c1b9934fe",
-        "size": 0
-      },
-      {
-        "id": "78980aa5-e6bd-4bc7-97ab-7050165c55c6",
-        "name": "ISC2010VEGETATIONWIDTHS TAB",
-        "format": "TAB",
-        "url": "https://datashare.maps.vic.gov.au/search?md=e3b65846-2af2-5d0c-b7a6-c64c1b9934fe",
-        "size": 0
-      },
-      {
-        "id": "ff2e5e4a-96f3-45eb-a15e-22eb4c2bed41",
-        "name": "ISC2010VEGETATIONWIDTHS Extended TAB",
-        "format": "EXTENDED TAB",
-        "url": "https://datashare.maps.vic.gov.au/search?md=e3b65846-2af2-5d0c-b7a6-c64c1b9934fe",
-        "size": 0
-      }
-    ]
-  },
-  {
-    "id": "077b0e65-77c0-4548-97f9-a65332ea6e7a",
-    "title": "VostroNet (Australia) Pty Ltd - Declaration - 22 January 2022 - Parramatta NSW",
-    "description": "VostroNet's declaration given to the ACMA on 17 January 2022 covers The Lennox at 12 Phillip St, \r\nParramatta, NSW, 2150 which was included in an Anticipatory Notice provided on 22 April 2021.\r\n\r\nInfrastructure to be installed: FTTP - Fibre to the premises.",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "SIP",
-      "VostroNet",
-      "broadband",
-      "statutory infrastructure provider",
-      "telecommunications"
-    ],
-    "lastUpdated": "2025-09-23T11:47:03.423604",
-    "discoveredAt": "2026-01-14T02:03:27.315Z",
-    "license": "Creative Commons Attribution 3.0 Australia",
-    "publisher": " SIP Register - VostroNet (Australia) Pty Ltd",
-    "organizationId": "sip-register-vostronet",
-    "resources": [
-      {
-        "id": "0cb1acec-a208-4044-9d5e-d4d58903b32d",
-        "name": "VostroNet_Parramatta_NSW_January_2022_data",
-        "format": "ZIP MAPINFO",
-        "url": "https://data.gov.au/data/dataset/077b0e65-77c0-4548-97f9-a65332ea6e7a/resource/0cb1acec-a208-4044-9d5e-d4d58903b32d/download/vostronet_australia_pty_ltd_09122021_declaration_lennox.zip",
-        "size": 1555
-      },
-      {
-        "id": "6e5f43c1-1ed9-41cc-8dd7-69488e553fc3",
-        "name": "VostroNet_Parramatta_NSW_declaration",
-        "format": "PDF",
-        "url": "https://data.gov.au/data/dataset/077b0e65-77c0-4548-97f9-a65332ea6e7a/resource/6e5f43c1-1ed9-41cc-8dd7-69488e553fc3/download/vostronet_australia_pty_ltd_09122021_declaration-the-lennox.pdf",
-        "size": 33507
-      },
-      {
-        "id": "1d6fffd3-dd5c-4a1d-9db6-21bf1b0bb448",
-        "name": "VostroNet_Parramatta_NSW_spreadsheet",
-        "format": "EXCEL (.XLSX)",
-        "url": "https://data.gov.au/data/dataset/077b0e65-77c0-4548-97f9-a65332ea6e7a/resource/1d6fffd3-dd5c-4a1d-9db6-21bf1b0bb448/download/vostronet_australia_pty_ltd_09122021_declaration_lennox.xlsx",
-        "size": 10484
-      }
-    ]
-  },
-  {
-    "id": "077b2fc2-5377-4e19-8d5e-5c12ceefbdfb",
-    "title": "Ballarat Council Buildings Accessibility",
-    "description": "Ratings on accessibility of buildings for wheelchair users. These ratings are in high demand by certain community groups wanting to choose venues suitable for all their members. \r\n\r\nAlthough all due care has been taken to ensure that these data are correct, no warranty is expressed or implied by the City of Ballarat in their use.\r\n",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "accessibility",
-      "ballarat",
-      "buildings"
-    ],
-    "lastUpdated": "2025-11-30T21:10:02.673809",
-    "discoveredAt": "2026-01-13T23:41:50.991Z",
-    "license": "Creative Commons Attribution 3.0 Australia",
-    "publisher": "City of Ballarat",
-    "organizationId": "city-of-ballarat",
-    "resources": [
-      {
-        "id": "507db356-fa49-495e-96e8-b57bd2b51a68",
-        "name": "Ballarat Council Buildings Accessibility",
-        "format": "CSV",
-        "url": "https://data.gov.au/data/dataset/077b2fc2-5377-4e19-8d5e-5c12ceefbdfb/resource/507db356-fa49-495e-96e8-b57bd2b51a68/download/buildingaccessibility.csv",
-        "size": null
-      },
-      {
-        "id": "fddb46dc-7fdd-491d-8e2c-caf9517e8285",
-        "name": "Ballarat Council Buildings Accessibility",
-        "format": "KML",
-        "url": "https://data.gov.au/data/dataset/077b2fc2-5377-4e19-8d5e-5c12ceefbdfb/resource/fddb46dc-7fdd-491d-8e2c-caf9517e8285/download/buildingaccessibility.kml",
-        "size": null
-      },
-      {
-        "id": "383b05f2-a8f8-47c5-9c34-2d6ff9b3757b",
-        "name": "Ballarat Council Buildings Accessibility",
-        "format": "JSON",
-        "url": "https://data.gov.au/data/dataset/077b2fc2-5377-4e19-8d5e-5c12ceefbdfb/resource/383b05f2-a8f8-47c5-9c34-2d6ff9b3757b/download/buildingaccessibility.json",
-        "size": null
-      },
-      {
-        "id": "b1931698-0a34-4c67-85cc-3ba8e44d3c46",
-        "name": "Ballarat Council Buildings Accessibility",
-        "format": "HTML",
-        "url": "http://opencouncildata.org/#open-council-data-building-accessibility-ratings-11",
-        "size": null
-      },
-      {
-        "id": "ba54147f-81d4-458b-b23b-351e3aad8eee",
-        "name": "Ballarat Council Buildings Accessibility",
-        "format": "SHP",
-        "url": "https://data.gov.au/data/dataset/077b2fc2-5377-4e19-8d5e-5c12ceefbdfb/resource/ba54147f-81d4-458b-b23b-351e3aad8eee/download/buildingaccessibility.zip",
-        "size": null
-      },
-      {
-        "id": "6e5df118-5644-4297-b8c4-58f035287b39",
-        "name": "Ballarat Council Buildings Accessibility - Preview this Dataset (WMS)",
-        "format": "WMS",
-        "url": "https://data.gov.au/geoserver/ballarat-council-buildings-accessibility/wms?request=GetCapabilities",
-        "size": null
-      },
-      {
-        "id": "4d06a4af-ff32-474c-aa73-b3e6090b89bc",
-        "name": "Ballarat Council Buildings Accessibility Web Feature Service API Link",
-        "format": "WFS",
-        "url": "https://data.gov.au/geoserver/ballarat-council-buildings-accessibility/wfs",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "0784d3d8-f3b9-4bf3-8a49-5c3befd3683b",
-    "title": "AEDC - Vulnerable on Two or More Domains (SA3) 2009-2018",
-    "description": "This dataset contains information about children that are vulnerable on two or more domains of the Australian Early Development Censuses (AEDC) from 2009 - 2018. The data is based on 2016 Statistical Areas Level 3 (SA3) boundaries.\nThe AEDC is a population-based measure of children's development as they enter their first year of full-time school, and takes place nationally every three years. It looks at five domains of early childhood development: physical health and wellbeing (plus three health sub-domains), social competence, emotional maturity, language and cognitive skills, and communication skills and general knowledge.\nFor more information visit the AEDC website.\nPlease note suppression of AEDC data occurs when one or more of the following have been met:\n\n\nThree or fewer children had been assessed\n\n\nFewer than fifteen children had valid AEDC scores\n\n\nLess than two teachers had completed AEDC instruments for children in that location\n\n\nAEDC instruments were completed for less than 80% of all non special needs children\nAdditional minor suppression's have occurred where necessary to preserve confidentiality of related suppressed cells.\n\n\nPlease Note:\n\n\nAURIN has spatially enabled the original data.\n\n\nAEDC results for Daly - Tiwi - West Arnhem (SA3 code 70203) and East Arnhem (SA3 code 70204) are combined in the original data. AURIN has assigned the results for these regions to the boundary of Daly - Tiwi - West Arnhem and excluded the boundary of East Arnhem from this dataset.\n\n",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "childhood",
-      "development",
-      "population"
-    ],
-    "lastUpdated": "2025-07-31T07:57:51.504186",
-    "discoveredAt": "2026-01-14T00:18:34.102Z",
-    "license": "DL-AEDC",
-    "publisher": "Government of the Commonwealth of Australia - Australian Early Development Census",
-    "organizationId": "government-of-the-commonwealth-of-australia-australian-early-development-census-australian-urban-res",
-    "resources": [
-      {
-        "id": "74faf737-626e-45c1-b0b8-3586be987194",
-        "name": "AURIN Download Manager",
-        "format": "HTML",
-        "url": "https://adp-access.aurin.org.au/public/download/?uri=https://adp-gatekeeper.prod.aurin-prod.cloud.edu.au/geoserver/wfs?request=GetFeature&typename=datasource-AU_Govt_AEDC-UoM_AURIN_DB:aedc_vuln_2_more_domain_sa3_2009_2018",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "0786d720-9c2f-4ee9-ba14-15ac30bb0bda",
-    "title": "Lismore Floodplain Risk Management Study - URBS",
-    "description": "URBS Hydrological model input and outputs",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "URBS"
-    ],
-    "lastUpdated": "2025-12-17T15:05:30.419153",
-    "discoveredAt": "2026-01-14T01:47:02.506Z",
-    "license": "lsba",
-    "publisher": "Rous County Council",
-    "organizationId": "rous-county-council-datansw",
-    "resources": [
-      {
-        "id": "9ede22de-d8ed-4118-acf9-b9ecf137b3d2",
-        "name": "Lismore Floodplain Risk Management Study  - URBS",
-        "format": "HTML",
-        "url": "https://flooddata.ses.nsw.gov.au/dataset/1d2ca6ae-f9f5-4674-baef-ffb468b15f6a/resource/0e186b9e-d508-4687-af76-df1b4a5709a9",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "07875d36-b773-4406-85d5-3294e077dcef",
-    "title": "APS Employment Data 30 June 2010",
-    "description": "    \r\n\r\nThe _Australian Public Service Statistical Bulletin 2009-10_ presents a\r\nsummary of employment under the _Public Service Act 1999_ at 30 June 2010 and\r\nduring the 2009-10 financial year, as well as summary data for the past\r\n15 years.\r\n\r\nThis Excel dataset consists of tables used to create theA Statistical\r\nBulletin. You can view the latestA Bulletins online atA AA\r\n[http://www.apsc.gov.au/about-the-apsc/parliamentary/aps-statistical-bulletin\r\n/snapshots-december-2011](http://www.apsc.gov.au/about-the-apsc/parliamentary\r\n/aps-statistical-bulletin/snapshots-december-2011)A .\r\n\r\n",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "apsc",
-      "publicservice",
-      "statistics"
-    ],
-    "lastUpdated": "2024-10-03T02:21:58.860872",
-    "discoveredAt": "2026-01-13T23:11:53.011Z",
-    "license": "Creative Commons Attribution 3.0 Australia",
-    "publisher": "Australian Public Service Commission",
-    "organizationId": "australianpublicservicecommission",
-    "resources": [
-      {
-        "id": "ebbabbb2-a4c4-4f24-ae8c-31c2dda15ea4",
-        "name": "Bulletin Tables 2010 final.xls",
-        "format": "XLS",
-        "url": "http://data.gov.au/storage/f/2013-05-12T174024/tmpQg0J_jBulletin-Tables-2010-final.xls",
-        "size": 893952
-      }
-    ]
-  },
-  {
-    "id": "0787690d-5e1d-4dac-afdb-6b7e91909b96",
-    "title": "Geoscience Australia - National Immigration Detention Facilities 2015",
-    "description": "This dataset presents the location of immigration detention facilities in Australia. The Immigration Detention Facilities dataset was digitized in 2015. The primary information source used to identify and attribute the immigration detention facilities was the Australian Government’s Department of Immigration and Border Protection website.\nFor more information please visit the Geoscience Australia Web Service Portal.\nPlease note: \n\nThis dataset is a snapshot of Geoscience Australia's web service dataset as on 2019-02-15\n",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "built",
-      "immigration",
-      "infrastructure"
-    ],
-    "lastUpdated": "2025-07-31T07:58:00.683790",
-    "discoveredAt": "2026-01-14T00:19:58.933Z",
-    "license": "CC-BY-4.0",
-    "publisher": "Government of the Commonwealth of Australia - Geoscience Australia",
-    "organizationId": "government-of-the-commonwealth-of-australia-geoscience-australia-australian-urban-research-infrastru",
-    "resources": [
-      {
-        "id": "d20fd1d3-60a8-4d71-8a17-6ea3ca867834",
-        "name": "AURIN Download Manager",
-        "format": "HTML",
-        "url": "https://adp-access.aurin.org.au/public/download/?uri=https://adp-gatekeeper.prod.aurin-prod.cloud.edu.au/geoserver/wfs?request=GetFeature&typename=datasource-AU_Govt_GA-UoM_AURIN_DB:national_immigration_detention_facilities_2015",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "078e9857-9fd3-436f-92af-e8ef646c4aad",
-    "title": "Dandaragan Regional Land Supply Assessment 2020 (DPLH-082)",
-    "description": "Regional land supply assessments measure the stocks of land for future residential, industrial and commercial uses. It provides context for the land use planning and infrastructure provision required to meet demand across selected regional centres in Western Australia. Regional land supply assessments are prepared by the Department of Planning, Lands and Heritage (the Department) on behalf of the Western Australian Planning Commission (WAPC) to fulfil the requirements for tracking and monitoring land supply, as outlined in section 14 of the Planning and Development Act 2005. The role of WAPC include monitoring and forecasting land supply throughout Western Australia, developing strategies for the timely supply of affordable residential land, and researching and developing planning methods and models relating to land use planning, land development and associated matters. \n\nRegional land supply assessments are one of a suite of products produced as part of the Urban Development Program (UDP). The UDP monitors land supply and promotes the timely delivery of residential, industrial and commercial land in Western Australia. The information presented in regional land supply assessments assist State Government agencies, utility and essential service providers, local governments and the private sector in decision making and forward planning. \n\nRegional land supply assessments include key information on:\n•   demand drivers specific to each regional centre, including the major economic factors that influence employment and population growth, and therefore, the demand for land and housing\n•   zoned land supply for residential (including rural living), industrial and commercial uses\n•   development constraints\n•   recent and future land development activity\n•   existing and required physical infrastructure. \n\nThis spatial dataset shows sites/areas that have been identified for future residential, industrial or commercial development. Sites are included where intent has been demonstrated by Government or the development industry to develop the site at some point in the future. Sites are included based on the current, applicable planning framework at the time of capture/analysis. ",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "dandaragan",
-      "land supply",
-      "regional"
-    ],
-    "lastUpdated": "2026-01-07T07:44:42.317616",
-    "discoveredAt": "2026-01-14T00:00:49.618Z",
-    "license": "custom_active_acceptance",
-    "publisher": "Department of Planning, Lands and Heritage",
-    "organizationId": "department-of-planning-lands-and-heritage-western-australia-government",
-    "resources": [
-      {
-        "id": "513899fc-cd26-4bd9-8bb8-72cacf9bc74f",
-        "name": "Metadata",
-        "format": ".DOCX",
-        "url": "https://catalogue.data.wa.gov.au/dataset/078e9857-9fd3-436f-92af-e8ef646c4aad/resource/513899fc-cd26-4bd9-8bb8-72cacf9bc74f/download/dandaragan_metadata.docx",
-        "size": 16578
-      },
-      {
-        "id": "d101aa6c-5d94-4a67-b029-5c30fcb985e4",
-        "name": "GeoJSON",
-        "format": "GEOJSON",
-        "url": "https://data-downloads.slip.wa.gov.au/DPLH-082/GeoJSON",
-        "size": null
-      },
-      {
-        "id": "285ddb8c-181b-48fe-a8cc-00e00acf50a4",
-        "name": "File Geodatabase",
-        "format": "FGDB",
-        "url": "https://data-downloads.slip.wa.gov.au/DPLH-082/File Geodatabase",
-        "size": null
-      },
-      {
-        "id": "692d6f7a-bedc-416a-9212-940091c93972",
-        "name": "Geopackage",
-        "format": "GEOPACKAGE",
-        "url": "https://data-downloads.slip.wa.gov.au/DPLH-082/Geopackage",
-        "size": null
-      },
-      {
-        "id": "0ef45925-c860-4d2c-b410-9f8227eb6819",
-        "name": "Shapefile",
-        "format": "SHP",
-        "url": "https://data-downloads.slip.wa.gov.au/DPLH-082/Shapefile",
-        "size": null
-      },
-      {
-        "id": "bdb27c14-28ae-4a5a-9c99-b5c756f44c7f",
-        "name": "ArcGIS Server Map Service",
-        "format": "API ARCGIS SERVER MAP SERVICE",
-        "url": "https://public-services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Property_and_Planning/MapServer/121",
-        "size": null
-      },
-      {
-        "id": "d1798b72-cebd-4030-a429-441ee180c207",
-        "name": "Web Mapping Service",
-        "format": "WMS",
-        "url": "https://public-services.slip.wa.gov.au/public/services/SLIP_Public_Services/Property_and_Planning/MapServer/WMSServer",
-        "size": null
-      },
-      {
-        "id": "76ea422f-5526-4409-88ea-c7b1fa8e9e6d",
-        "name": "Web Feature Service",
-        "format": "WFS",
-        "url": "https://services.slip.wa.gov.au/arcgis/services/DPLH_Public_Secure_Services/DPLH_Public_Secure_Services_FS/MapServer/WFSServer",
-        "size": null
-      },
-      {
-        "id": "264c47ab-44d4-4eb2-82c9-bccf4aba2507",
-        "name": "ArcGIS Server Feature Service (Esri Token Authentication)",
-        "format": "API ARCGIS SERVER FEATURE SERVICE",
-        "url": "https://token.slip.wa.gov.au/arcgis/rest/services/DPLH_Public_Secure_Services/DPLH_Public_Secure_Services_FS/FeatureServer/63",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "07931cd5-46f9-4210-b290-3ef3233e246d",
-    "title": "Contract disclosure reports",
-    "description": "A directory of awarded government contracts over $10,000. \n\nPlease note that contract values published often exceed actual expenditure incurred.  Where the contract has expired in the reporting period, the contract awarded value has been updated to reflect the actual cost of the awarded contract.\n\nThe department changed from the Department of State Development and Infrastructure to the Department of State Development, Infrastructure and Planning in October 2024.\n\nThe department changed from the Department of State Development, Infrastructure, Local Government and Planning to the Department of State Development and Infrastructure in December 2023.",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "Contract Disclosure Report",
-      "contract disclosure"
-    ],
-    "lastUpdated": "2025-12-19T21:25:06.243631",
-    "discoveredAt": "2026-01-14T02:15:34.371Z",
-    "license": "cc-by-4",
-    "publisher": "State Development, Infrastructure and Planning",
-    "organizationId": "state-development-infrastructure-and-planning-queensland-government",
-    "resources": [
-      {
-        "id": "b1f83910-3e77-46ee-8395-c7fd885ada7f",
-        "name": "DSDIP contract disclosure report October2025",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/b1f83910-3e77-46ee-8395-c7fd885ada7f/download/dsdip-contract-disclosure-report-october-2025.xlsx",
-        "size": null
-      },
-      {
-        "id": "44e8e222-c570-48bb-8dde-d53236c5695a",
-        "name": "DSDIP contract disclosure report September 2025",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/44e8e222-c570-48bb-8dde-d53236c5695a/download/dsdip-contract-disclosure-report-september-2025.xlsx",
-        "size": null
-      },
-      {
-        "id": "0444ef66-68f0-40d7-9692-c1947405298a",
-        "name": "DSDIP contract disclosure report July 2025 to August 2025",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/0444ef66-68f0-40d7-9692-c1947405298a/download/dsdip-contract-disclosure-report-july-august-2025.xlsx",
-        "size": null
-      },
-      {
-        "id": "eaff8469-7c84-4929-9168-e7a781039d23",
-        "name": "DSDIP contract disclosure report May 2025 to July 2025",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/eaff8469-7c84-4929-9168-e7a781039d23/download/dsdip-contract-disclosure-report-may-july-2025.xlsx",
-        "size": null
-      },
-      {
-        "id": "2d4ca26a-4aee-44c5-9a0d-b3426f6ec4ae",
-        "name": "DSDIP contract disclosure report  January 2025 to April 2025",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/2d4ca26a-4aee-44c5-9a0d-b3426f6ec4ae/download/dsdip-contract-disclosure-report-january-april-2025.xlsx",
-        "size": null
-      },
-      {
-        "id": "e8017945-f764-4f7b-b749-78ee1333ee9d",
-        "name": "DSDIP contract disclosure report Oct 2024 to Dec 2024",
-        "format": "XLS",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/e8017945-f764-4f7b-b749-78ee1333ee9d/download/dsdip-contract-disclosure-report-oct-to-dec-2024.xlsx",
-        "size": null
-      },
-      {
-        "id": "74e3af26-554b-42a9-9eee-b5497ca5a438",
-        "name": "DSDI contract disclosure report May 2024 to Sep 2024",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/74e3af26-554b-42a9-9eee-b5497ca5a438/download/dsdi-contract-disclosure-report-may-to-sep-2024.xlsx",
-        "size": null
-      },
-      {
-        "id": "6c4abed6-c78b-441a-b384-3939d70b285e",
-        "name": "EDQ contract disclosure report May 2024 to June 2024",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/6c4abed6-c78b-441a-b384-3939d70b285e/download/edq-contract-disclosure-report-may-june-2024.xlsx",
-        "size": null
-      },
-      {
-        "id": "308d879a-1f8f-46e4-a49b-e291d45bad5e",
-        "name": "DSDI contract disclosure report Jan to Apr 2024",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/308d879a-1f8f-46e4-a49b-e291d45bad5e/download/dsdi-contract-disclosure-report-jan-apr-24.xlsx",
-        "size": null
-      },
-      {
-        "id": "19343bd6-e22c-428e-aee8-f0607fe93ffc",
-        "name": "EDQ contract disclosure report Sep 2023 to Apr 2024",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/19343bd6-e22c-428e-aee8-f0607fe93ffc/download/edq-contract-disclosure-report-sep-23-apr-24.xlsx",
-        "size": null
-      },
-      {
-        "id": "64b95acd-d932-478e-8252-4e3e8e69a902",
-        "name": "DSDILGP contract disclosure report Sep to Dec 2023",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/64b95acd-d932-478e-8252-4e3e8e69a902/download/dsdilgp-contract-disclosure-report-sept-dec-23.xlsx",
-        "size": null
-      },
-      {
-        "id": "78b19ae9-d9a8-4054-9ee0-0a8b1b4e8fab",
-        "name": "EDQ-contract-disclosure-report-Jul-Aug-23.xlsx",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/78b19ae9-d9a8-4054-9ee0-0a8b1b4e8fab/download/edq-contract-disclosure-report-jul-aug-23.xlsx",
-        "size": null
-      },
-      {
-        "id": "5432a4d7-c7c4-4373-b0ad-ce8a5425a540",
-        "name": "DSDILGP contract disclosure report Jul-Aug-23.xlsx",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/5432a4d7-c7c4-4373-b0ad-ce8a5425a540/download/dsdilgp-contract-disclosure-report-jul-aug-23.xlsx",
-        "size": null
-      },
-      {
-        "id": "927e8e0e-9a45-4c6c-967a-df04036bf0e9",
-        "name": "EDQ-contract-disclosure-report-May-Jun-23.xlsx",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/927e8e0e-9a45-4c6c-967a-df04036bf0e9/download/edq-contract-disclosure-report-may-jun-23.xlsx",
-        "size": null
-      },
-      {
-        "id": "1e9c8238-1fa1-4300-b7af-e53f0b3bf451",
-        "name": "DSDILGP-contract-disclosure-report-May-Jun-23.xlsx",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/1e9c8238-1fa1-4300-b7af-e53f0b3bf451/download/dsdilgp-contract-disclosure-report-may-jun-23.xlsx",
-        "size": null
-      },
-      {
-        "id": "2cbbc17a-ceb2-4dbc-85f3-f0f2a304e9f6",
-        "name": "EDQ-contract-disclosure-report-Mar-Apr-23.xlsx",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/2cbbc17a-ceb2-4dbc-85f3-f0f2a304e9f6/download/edq-contract-disclosure-report-mar-apr-23.xlsx",
-        "size": null
-      },
-      {
-        "id": "b9568868-ef20-4445-9c23-f0048d2bc224",
-        "name": "DSDILGP contract disclosure report Mar-Apr-23.xlsx",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/b9568868-ef20-4445-9c23-f0048d2bc224/download/dsdilgp-contract-disclosure-report-mar-apr-23.xlsx",
-        "size": null
-      },
-      {
-        "id": "4f9fd4e0-d652-4ac3-aa1f-97b683f6c94b",
-        "name": "EDQ contract disclosure report January - February 2023",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/4f9fd4e0-d652-4ac3-aa1f-97b683f6c94b/download/edq-contract-disclosure-report-jan-feb-23.xlsx",
-        "size": null
-      },
-      {
-        "id": "b8878226-40ec-4c1a-a945-0c91e03cc6ba",
-        "name": "DSDILGP Contract disclosure January - February 2023",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/b8878226-40ec-4c1a-a945-0c91e03cc6ba/download/dsdilgp-contract-disclosure-jan-feb-2023.xlsx",
-        "size": null
-      },
-      {
-        "id": "fdeb525a-c5e6-46ba-b770-4f2f17f4dd98",
-        "name": "DSDILGP Contract Disclosure October-December 2022",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/fdeb525a-c5e6-46ba-b770-4f2f17f4dd98/download/dsdilgp-contract-disclosure-october-december-2022.csv",
-        "size": null
-      },
-      {
-        "id": "5693acb7-277e-47e6-8608-547a67bd1c81",
-        "name": "DSDILGP Contract Disclosure July-September 2022",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/5693acb7-277e-47e6-8608-547a67bd1c81/download/dsdilgp-contract-disclosure-july-september-2022.csv",
-        "size": null
-      },
-      {
-        "id": "caf0c6f2-d5ad-4675-8956-93e6531c8e99",
-        "name": "DSDILGP Contract Disclosure April-June 2022",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/caf0c6f2-d5ad-4675-8956-93e6531c8e99/download/dsdilgp-contract-disclosure-april-june-2022.csv",
-        "size": null
-      },
-      {
-        "id": "2c986b3d-b1a5-42fd-8459-2216b21223a3",
-        "name": "DSDILGP Contract Disclosure January-March 2022",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/2c986b3d-b1a5-42fd-8459-2216b21223a3/download/dsdilgp-contract-disclosure-january-march-2022.csv",
-        "size": null
-      },
-      {
-        "id": "2c63ca6e-95a1-4bb1-a0f9-ea50dc08e123",
-        "name": "EDQ contract disclosure - October-December 2022",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/2c63ca6e-95a1-4bb1-a0f9-ea50dc08e123/download/edq-contract-disclosure-report-oct-dec-2022.csv",
-        "size": null
-      },
-      {
-        "id": "dddc5a82-c4c4-4768-be1a-233ca4046d93",
-        "name": "EDQ contract disclosure - July  2022 to September 2022",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/dddc5a82-c4c4-4768-be1a-233ca4046d93/download/edq-contract-disclosure-report-july-sept-2022.csv",
-        "size": null
-      },
-      {
-        "id": "d62c153e-641a-4790-bcb8-c3ab9927f53b",
-        "name": "EDQ contract disclosure - June 2022",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/d62c153e-641a-4790-bcb8-c3ab9927f53b/download/edq-contract-disclosure-june-2022.csv",
-        "size": null
-      },
-      {
-        "id": "8ea5ecc3-6d79-4708-8944-9ac7c94941ca",
-        "name": "EDQ contract disclosure - May 2022",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/8ea5ecc3-6d79-4708-8944-9ac7c94941ca/download/edq-contract-disclosure-may-2022.csv",
-        "size": null
-      },
-      {
-        "id": "c26707d2-b0c0-4f89-a8d8-29501737a83a",
-        "name": "EDQ contract disclosure - March-April 2022",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/c26707d2-b0c0-4f89-a8d8-29501737a83a/download/edq-contract-disclosure-march-april-2022.csv",
-        "size": null
-      },
-      {
-        "id": "796aa05e-d319-4e34-8564-a9345384643b",
-        "name": "EDQ contract disclosure - January-February 2022",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/796aa05e-d319-4e34-8564-a9345384643b/download/edq-contract-disclosure-january-february-2022.csv",
-        "size": null
-      },
-      {
-        "id": "7c83495e-b49a-4222-9398-20ca46098b55",
-        "name": "EDQ contract disclosure - July-December 2021",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/7c83495e-b49a-4222-9398-20ca46098b55/download/edq-contract-disclosure-july-december-2021.csv",
-        "size": null
-      },
-      {
-        "id": "9fe4d1db-f1b8-4f21-915f-ca9e970f09a6",
-        "name": "EDQ contract disclosure - April-June 2021",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/9fe4d1db-f1b8-4f21-915f-ca9e970f09a6/download/edq-contract-disclosure-april-june-2021.csv",
-        "size": null
-      },
-      {
-        "id": "8c0fa147-d138-46d1-9ab4-da90946af650",
-        "name": "EDQ contract disclosure - January-March 2021",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/8c0fa147-d138-46d1-9ab4-da90946af650/download/edq-contract-disclosure-january-march-2021.csv",
-        "size": null
-      },
-      {
-        "id": "c5c4d37e-4370-436c-83f6-a29895544b1e",
-        "name": "DSDILGP Contract Disclosure July-December 2021",
-        "format": "CSV",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/c5c4d37e-4370-436c-83f6-a29895544b1e/download/dsdilgp-contract-disclosure-july-dec-2021.csv",
-        "size": null
-      },
-      {
-        "id": "01aad309-0337-4666-bcb4-2112d937bf53",
-        "name": "DSDILGP Contract Disclosure January-March 2021",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/01aad309-0337-4666-bcb4-2112d937bf53/download/dsdilgp-contract-disclosure-january-march2021.xlsx",
-        "size": null
-      },
-      {
-        "id": "e8cf67e9-1ae1-4a24-a465-3efd8452b84f",
-        "name": "DSDILGP Contract Disclosure April-June 2021",
-        "format": "XLSX",
-        "url": "https://www.data.qld.gov.au/dataset/07931cd5-46f9-4210-b290-3ef3233e246d/resource/e8cf67e9-1ae1-4a24-a465-3efd8452b84f/download/dsdilgp-contract-disclosure-april-june-2021.xlsx",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "0796941b-2412-44a1-897e-3f87d922992d",
-    "title": "Victorian Biodiversity Atlas Restricted Records - 1 minute grid",
-    "description": "This layer contains restricted taxa records from the Victorian Biodiversity Atlas (VBA). Record locations have been denatured to a 1 minute polygon grid to enable genaral data access. These records are held seperately from, and should be used in conjunction with VBA_FAUNA/FLORA25/100. VBA records are restricted when deemed by the Department to be vulnerable to collection, harvesting or disturbance. \n\nThe main attributes in this layer are taxon name, conservation status, count, and year of record. The VERS_DATE column identifies the currency of the data.\n\nThe FFG field has been updated to reflect the 2021 FFG Act amendments, and the Victorian Advisory List (VICADV) is now obsolete.",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "biota"
-    ],
-    "lastUpdated": "2026-01-08T04:45:10.135177",
-    "discoveredAt": "2026-01-13T23:56:23.427Z",
-    "license": "Creative Commons Attribution 3.0 Australia",
-    "publisher": "Department of Energy, Environment and Climate Action",
-    "organizationId": "department-of-energy-environment-and-climate-action-victoria-government",
-    "resources": [
-      {
-        "id": "e874e4ab-0bb2-4ad3-b36d-caba6647df08",
-        "name": "VBARESTRICTED1M DWG",
-        "format": "DWG",
-        "url": "https://datashare.maps.vic.gov.au/search?md=be6926fd-6ac3-5081-8953-e623e0b16fd5",
-        "size": 0
-      },
-      {
-        "id": "ae5e51fc-2673-4db8-8927-4d1717dc46e8",
-        "name": "VBARESTRICTED1M DXF",
-        "format": "DXF",
-        "url": "https://datashare.maps.vic.gov.au/search?md=be6926fd-6ac3-5081-8953-e623e0b16fd5",
-        "size": 0
-      },
-      {
-        "id": "24ae9f5e-2539-4c16-87bb-0bc9c2e59b0f",
-        "name": "VBARESTRICTED1M GDB",
-        "format": "GDB",
-        "url": "https://datashare.maps.vic.gov.au/search?md=be6926fd-6ac3-5081-8953-e623e0b16fd5",
-        "size": 0
-      },
-      {
-        "id": "12789124-1bfe-408e-8419-49cdb194eefd",
-        "name": "VBARESTRICTED1M SHP",
-        "format": "SHP",
-        "url": "https://datashare.maps.vic.gov.au/search?md=be6926fd-6ac3-5081-8953-e623e0b16fd5",
-        "size": 0
-      },
-      {
-        "id": "148882c7-2765-4d79-8f0b-41ddd72e0fa4",
-        "name": "VBARESTRICTED1M MIF",
-        "format": "MIF",
-        "url": "https://datashare.maps.vic.gov.au/search?md=be6926fd-6ac3-5081-8953-e623e0b16fd5",
-        "size": 0
-      },
-      {
-        "id": "70384b87-20d7-4ffd-8201-cdf55e02f446",
-        "name": "VBARESTRICTED1M TAB",
-        "format": "TAB",
-        "url": "https://datashare.maps.vic.gov.au/search?md=be6926fd-6ac3-5081-8953-e623e0b16fd5",
-        "size": 0
-      },
-      {
-        "id": "0fe7f2dc-f0f3-4db1-93c3-4d61c850d438",
-        "name": "VBARESTRICTED1M Extended TAB",
-        "format": "EXTENDED TAB",
-        "url": "https://datashare.maps.vic.gov.au/search?md=be6926fd-6ac3-5081-8953-e623e0b16fd5",
-        "size": 0
-      },
-      {
-        "id": "ece7f69a-357b-45e9-9ab5-121bed49e300",
-        "name": "VBA_RESTRICTED_1M WMS",
-        "format": "WMS",
-        "url": "https://opendata.maps.vic.gov.au/geoserver/wms?service=wms&request=getmap&format=image%2Fpng8&transparent=true&layers=open-data-platform:vba_restricted_1m&width=512&height=512&crs=epsg%3A3857&bbox=16114148.554967716%2C-4456584.4971389165%2C16119040.524777967%2C-4451692.527328665",
-        "size": null
-      },
-      {
-        "id": "172f40a5-d9e6-4421-b042-ef1dec9aaab5",
-        "name": "VBA_RESTRICTED_1M WFS",
-        "format": "WFS",
-        "url": "https://opendata.maps.vic.gov.au/geoserver/wfs?request=GetCapabilities&service=WFS",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "07999151-d084-4e7e-b5c2-762178cfe247",
-    "title": "Latrobe Healthier Oils Program Participants",
-    "description": "Latrobe healthier oils program participants",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "Basic Health"
-    ],
-    "lastUpdated": "2025-11-17T18:32:40.695558",
-    "discoveredAt": "2026-01-14T00:29:10.320Z",
-    "license": "Creative Commons Attribution 2.5 Australia",
-    "publisher": "Latrobe City Council",
-    "organizationId": "latrobe-city-council",
-    "resources": [
-      {
-        "id": "fb7f52bf-a9dc-4509-aa41-0b1718905f67",
-        "name": "Latrobe Healthier Oils Program Participants.zip",
-        "format": "SHP",
-        "url": "https://data.gov.au/data/dataset/07999151-d084-4e7e-b5c2-762178cfe247/resource/fb7f52bf-a9dc-4509-aa41-0b1718905f67/download/latrobe-healthier-oils-program-participants.zip",
-        "size": 4817
-      },
-      {
-        "id": "ed29a1b9-5f6c-4bae-ae39-3dbd29ca276d",
-        "name": "Latrobe Healthier Oils Program Participants - Preview this Dataset (WMS)",
-        "format": "WMS",
-        "url": "https://data.gov.au/geoserver/latrobe-healthier-oils-program-participants/wms?request=GetCapabilities",
-        "size": null
-      },
-      {
-        "id": "2da635ba-97a6-4fd0-84fd-e90018c168ca",
-        "name": "Latrobe Healthier Oils Program Participants Web Feature Service API Link",
-        "format": "WFS",
-        "url": "https://data.gov.au/geoserver/latrobe-healthier-oils-program-participants/wfs",
-        "size": null
-      },
-      {
-        "id": "39ca2aa6-249f-4b28-a5ee-0eb1444b9067",
-        "name": "Latrobe Healthier Oils Program Participants GeoJSON",
-        "format": "GEOJSON",
-        "url": "https://data.gov.au/geoserver/latrobe-healthier-oils-program-participants/wfs?request=GetFeature&typeName=ckan_07999151_d084_4e7e_b5c2_762178cfe247&outputFormat=json",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "079d3266-2a25-4452-b31a-f94aa7975a07",
-    "title": "Strathbogie Shire Residential Prioritised Tree Planting 2019",
-    "description": "Line data of prioritised residential tree planting for six towns within Strathbogie Shire: Avenel, Euroa, Longwood, Nagambie, Strathbogie and Violet Town. Data used for prioritising locations for increasing ‘Green Infrastructure’.  Data supplied by Urban Forest Consulting.  \r\n\r\nAlthough due care has been taken to ensure that this data is correct, no warranty is expressed or implied by the Strathbogie Shire Council in its use.\r\n",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "local government",
-      "open council data",
-      "strathbogie",
-      "urban forest",
-      "vegetation cover"
-    ],
-    "lastUpdated": "2025-09-05T19:51:22.059677",
-    "discoveredAt": "2026-01-14T02:22:36.998Z",
-    "license": "Creative Commons Attribution 3.0 Australia",
-    "publisher": "Strathbogie Shire Council",
-    "organizationId": "strathbogie-shire-council",
-    "resources": [
-      {
-        "id": "0ad94e59-bc29-4dca-bcd5-0dcda970a4fd",
-        "name": "Residential Prioritised Tree Planting 2019.zip",
-        "format": "ZIP",
-        "url": "https://data.gov.au/data/dataset/079d3266-2a25-4452-b31a-f94aa7975a07/resource/0ad94e59-bc29-4dca-bcd5-0dcda970a4fd/download/residential-prioritised-tree-planting-2019.zip",
-        "size": 10932
-      },
-      {
-        "id": "31ac2125-2376-412c-8b0a-180306042cd5",
-        "name": "Residential Prioritised Tree Planting 2019.geojson",
-        "format": "JSON",
-        "url": "https://data.gov.au/data/dataset/079d3266-2a25-4452-b31a-f94aa7975a07/resource/31ac2125-2376-412c-8b0a-180306042cd5/download/residential-prioritised-tree-planting-2019.geojson",
-        "size": 61808
-      },
-      {
-        "id": "0e606095-36b0-4bf3-8391-68470584ef15",
-        "name": "Residential Prioritised Tree Planting 2019.kml",
-        "format": "KML",
-        "url": "https://data.gov.au/data/dataset/079d3266-2a25-4452-b31a-f94aa7975a07/resource/0e606095-36b0-4bf3-8391-68470584ef15/download/residential-prioritised-tree-planting-2019.kml",
-        "size": 118796
-      },
-      {
-        "id": "db78c2ab-2416-4635-8d16-0e3bdc084c81",
-        "name": "Residential Prioritised Tree Planting 2019.sld",
-        "format": "HTML",
-        "url": "https://data.gov.au/data/dataset/079d3266-2a25-4452-b31a-f94aa7975a07/resource/db78c2ab-2416-4635-8d16-0e3bdc084c81/download/residential-prioritised-tree-planting-2019.sld",
-        "size": 1166
-      },
-      {
-        "id": "db3e723a-b617-4a58-945c-d99cbeb9d4e9",
-        "name": "Strathbogie Shire Residential Prioritised Tree Planting 2019 - Preview this Dataset (WMS)",
-        "format": "WMS",
-        "url": "https://data.gov.au/geoserver/strathbogie-shire-residential-prioritised-tree-planting-2019/wms?request=GetCapabilities",
-        "size": null
-      },
-      {
-        "id": "10eab316-c70d-4ef8-af7c-54a474ea9277",
-        "name": "Strathbogie Shire Residential Prioritised Tree Planting 2019 Web Feature Service API Link",
-        "format": "WFS",
-        "url": "https://data.gov.au/geoserver/strathbogie-shire-residential-prioritised-tree-planting-2019/wfs",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "079e1b2c-64b0-4ecb-a678-6f002759f088",
-    "title": "TASVEG 4.0",
-    "description": "TASVEG is a Tasmania-wide vegetation map produced by the Tasmanian Vegetation Monitoring and Mapping Program (TVMMP). TASVEG comprises 157 mapping units captured at a nominal scale of 1:25,000. TASVEG is continually revised and updated via photographic and satellite image interpretation and is verified in the field where possible. This version (4.0) represents the fourth major release of the TASVEG layer since 2004.\nTASVEG mapping is indicative only. Whilst extensive checks are applied to release versions of TASVEG, confirming the presence or otherwise of TASVEG communities requires field validation by a qualified practitioner.",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "FLORA Exotic",
-      "FLORA Native",
-      "VEGETATION Floristic",
-      "VEGETATION Structural"
-    ],
-    "lastUpdated": "2025-10-02T17:23:56.774077",
-    "discoveredAt": "2026-01-14T02:26:39.880Z",
-    "license": "notspecified",
-    "publisher": "Tasmania Government's The List Data",
-    "organizationId": "tas-government-the-list",
-    "resources": [
-      {
-        "id": "ca2cb05f-2851-4859-a130-31187bf3df0e",
-        "name": "Product Information Documents:",
-        "format": "HTML",
-        "url": "https://dpipwe.tas.gov.au/conservation/development-planning-conservation-assessment/planning-tools/monitoring-and-mapping-tasmanias-vegetation-(tasveg)/tasveg-the-digital-vegetation-map-of-tasmania/tasveg-documentation",
-        "size": null
-      },
-      {
-        "id": "e5e98f88-210d-45fc-a6a5-eb3dcd68ec2f",
-        "name": "Unnamed resource",
-        "format": "HTML",
-        "url": "http://www.dpipwe.tas.gov.au/tasveg",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "079eafcb-0593-4390-ab07-e613550b7267",
-    "title": "Bicycle Network - Super Tuesday Commuter Bike Counts (Points) 2015",
-    "description": "This dataset contains cycling volume, movement flow and demographic data for the 'Super Tuesday' Commuter Bike Count event in September 2015. The counts are presented as individual points which relate to the location where the counts were visually undertaken by volunteers. The data covers 47 Local Government Areas (LGAs) across ACT, NSW, SA, TAS, VIC and WA.\n'Super Tuesday' is Australia's largest visual bike count, where volunteer counters observe and record cyclist numbers across Australia. The Bicycle Network data is collected within 97 councils and over 1,500 sites, the 'Super Counts' are Australia's largest cycling surveys of their kind.\nBicycle Network have used a consistent methodology across Australia to collect consistent figures on cycling participation. The data can be used to compliment other traffic surveys, such as automated systems by providing a broader picture of cycling trends at both a local and national scale.\nFor more information please visit Bicycle Network Bike Counts.\nBicycle counts help track progress, and identify areas of improvement to inform active transport policy with the goal of making it easier for more people to choose active modes everyday. The data is available for researchers and policymakers to plan and build cycling infrastructure to promote increased cycling activity, and to gather longitudinal insights of cycling volumes and trends.\nAURIN has spatially enabled this dataset by creating geometries from the latitude and longitude columns with PostGIS.",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "Cycling",
-      "Green Transport",
-      "Transport",
-      "Transport Surveys"
-    ],
-    "lastUpdated": "2025-07-31T07:58:18.771785",
-    "discoveredAt": "2026-01-13T23:12:35.236Z",
-    "license": "CC-BY-NC-4.0",
-    "publisher": "Bicycle Network",
-    "organizationId": "bicycle-network-australian-urban-research-infrastructure-network",
-    "resources": [
-      {
-        "id": "2f4a9cbf-bace-4bd7-b60e-011f382b2217",
-        "name": "AURIN Download Manager",
-        "format": "HTML",
-        "url": "https://adp-access.aurin.org.au/public/download/?uri=https://adp-gatekeeper.prod.aurin-prod.cloud.edu.au/geoserver/wfs?request=GetFeature&typename=datasource-BN-UoM_AURIN_DB:bicycle_count_2015",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "07a67fa2-786b-496d-9f7c-17a87dcee1d5",
-    "title": "Mandurah Castle Fun Park 1985 (LGATE-277)",
-    "description": "Part of a collection of WA's iconic theme parks from the 1980s. Many of these sites are still around today, but are either bigger, laying in ruins or modified versions of their former lives. Landgate has delved into the archives to extract 'wicked' aerial imagery of some of these venues for WA Heritage Week. Take a trip back in time without the need of a DeLorean!\n\nThis dataset contains vectorised boundaries for the theme park. To view the aerial photography for the sites please refer to https://catalogue.data.wa.gov.au/group/interesting-historical-photography © Western Australian Land Information Authority (Landgate). Use of Landgate data is subject to <a href=\"https://www.landgate.wa.gov.au/siteassets/documents/location-data-and-services/licensing/slip-transaction-personal-use-licence-300523.pdf\">Personal Use License</a> terms and conditions unless otherwise authorised under <a href=\"https://www.landgate.wa.gov.au/location-data-and-services/discovering-landgate-data/licensing/\">approved License terms and conditions</a>. ",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "heritage",
-      "heritage-week",
-      "park",
-      "theme"
-    ],
-    "lastUpdated": "2026-01-07T07:44:59.341573",
-    "discoveredAt": "2026-01-14T00:29:03.660Z",
-    "license": "custom_other",
-    "publisher": "Landgate",
-    "organizationId": "landgate-western-australia-government",
-    "resources": [
-      {
-        "id": "2f851029-d2b7-4117-bb05-46f29970d647",
-        "name": "Esri Map Service",
-        "format": "ESRI REST",
-        "url": "https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Historic_Imagery/MapServer",
-        "size": null
-      },
-      {
-        "id": "4e1bce0a-4b6f-4809-866b-bc5023399fc1",
-        "name": "Imagery File",
-        "format": "TIF",
-        "url": "https://catalogue.data.wa.gov.au/dataset/07a67fa2-786b-496d-9f7c-17a87dcee1d5/resource/4e1bce0a-4b6f-4809-866b-bc5023399fc1/download/mandurah_castle_fun_park_1985_image.tif",
-        "size": 8308384
-      },
-      {
-        "id": "1e37a675-fd12-46dd-95cd-fe1ab7c7fa4e",
-        "name": "ArcGIS Server Map Service",
-        "format": "API ARCGIS SERVER MAP SERVICE",
-        "url": "https://public-services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Historic_Imagery/MapServer/105",
-        "size": null
-      },
-      {
-        "id": "768fd912-794d-4720-8cc5-6ba8aa9af133",
-        "name": "Web Mapping Service",
-        "format": "WMS",
-        "url": "https://public-services.slip.wa.gov.au/public/services/SLIP_Public_Services/Historic_Imagery/MapServer/WMSServer",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "07a7839a-0152-4b9d-860a-d9ae2582943c",
-    "title": "Parent record: Water exchange processes between Jervis Bay and shelf waters",
-    "description": "This record describes components of the 'Jervis Bay Baseline Studies' project conducted by the Department of Defence, CSIRO and Australian Defence Force Academy (ADFA). The initial aims of the project were to obtain current and wind observations from Jervis bay over a six week period in order to detail the wind driven circulation and provide a data set for comparison with the numerical modelling work being simultaneously undertaken. However, after this initial experiment it became clear that there were significant currents in the bay that are not simply related to direct wind forcing. Therefore, alternative mechanisms for driving the flow had to be investigated, through the measurement programs and data analysis, as well as through numerical modelling. The result was a series of approximately six separate experiments aiming to define the water circulation around the bay and through the bay entrance, to gain an understanding of the processes that drive the currents, and to investigate the influence of stratification on the nature of the currents.\n\nThe third of these six experiments was designed to monitor the exchange of water between the bay and the shelf. The data collection spanned one year from April 1989 to April 1990, in order to get an indication of seasonal variability in the flow. Throughout the 12 month period, 3 current meter moorings, a separate tide gauge mooring and a meteorological station were maintained. \n\nTypical mooring deployments were 2 months with inter-deployment gaps of 1 or 2 days. Moorings were re-deployed in nominally the same location, although these varied slightly. Two moorings were maintained in the bay entrance, one off Point Perpendicular and one off Bowen Island, each containing two current meters. A third mooring was in 100m water depth, approximately 2km offshore of Point Perpendicular and this mooring housed 3 current meters and a tide gauge. A separate tide gauge was maintained in a mooring in 10m of water, 200m off Bowen Island, inside the bay. [Given that meteorological data collected from the station on Governor Head bridges all six experiments, the data collected is described in a separate metadata record and will not be considered further.]\n\nAs this is a parent record, no data is available to download. A pdf outlining the structure and hierarchy of metadata records relating to this project is available through this record. Also available is a pdf of a published working paper documenting this experiment and the results. There are four subsiduary records that directly relate to this parent, through which the data is provided (see hierarchical tree): \n089f8080-c897-11dc-85f3-00188b4c0af8\na2c0a820-c576-11dc-b888-00188b4c0af8\nd03f0f00-c47a-11dc-9a66-00188b4c0af8\ne4eaf410-d469-11dc-9644-00188b4c0af8",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "Ocean Circulation",
-      "Ocean Currents",
-      "Ocean Temperature",
-      "Oceans",
-      "Salinity",
-      "Tidal Currents",
-      "Tides",
-      "Water Temperature"
-    ],
-    "lastUpdated": "2023-08-11T11:10:27.627805",
-    "discoveredAt": "2026-01-13T23:08:29.572Z",
-    "license": "Other",
-    "publisher": "Australian Defence Force Academy (ADFA)",
-    "organizationId": "australian-defence-force-academy-adfa",
-    "resources": [
-      {
-        "id": "8a1be8ce-29c3-47b0-9fda-e88d0c9c84eb",
-        "name": "Hierarchy.pdf",
-        "format": "PDF",
-        "url": "http://catalogue.aodn.org.au/geonetwork/srv/en/file.disclaimer?uuid=5f4333e0-2ae5-11dd-a735-00188b4c0af8&fname=Hierarchy.pdf&access=private",
-        "size": null
-      },
-      {
-        "id": "58f877ac-257b-4a69-84f4-535369bfa68f",
-        "name": "Oceanographic_Measurements_in_Jervis_Bay_-_April_1989_to_April_1990.PDF",
-        "format": "PDF",
-        "url": "http://catalogue.aodn.org.au/geonetwork/srv/en/file.disclaimer?uuid=5f4333e0-2ae5-11dd-a735-00188b4c0af8&fname=Oceanographic_Measurements_in_Jervis_Bay_-_April_1989_to_April_1990.PDF&access=private",
-        "size": null
-      },
-      {
-        "id": "a3fabce0-f42a-42e3-b535-0a2d5e035578",
-        "name": "Operating_and_Data_Processing_Procedures_for_Oceanographic_Instrumentation.PDF",
-        "format": "PDF",
-        "url": "http://catalogue.aodn.org.au/geonetwork/srv/en/file.disclaimer?uuid=5f4333e0-2ae5-11dd-a735-00188b4c0af8&fname=Operating_and_Data_Processing_Procedures_for_Oceanographic_Instrumentation.PDF&access=private",
-        "size": null
-      },
-      {
-        "id": "2ef5467e-f305-4911-ab18-9bcee4eab634",
-        "name": "aodn:JBoceanographic_data",
-        "format": "WMS",
-        "url": "http://geoserver.imos.org.au/geoserver/wms",
-        "size": null
-      },
-      {
-        "id": "9edb7afc-4825-478e-8e7c-f73aec46ffe0",
-        "name": "http://www.marine.csiro.au/~cra171/holloway/MFR54pp585-6.pdf",
-        "format": "PDF",
-        "url": "http://www.marine.csiro.au/~cra171/holloway/MFR54pp585-6.pdf",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "07ab069b-46a4-4280-9054-946e15a9c50e",
-    "title": "Vicmap Planning History",
-    "description": "Vicmap Planning History is the map data representing the land use zone and overlay controls for all Victorian planning schemes. Planning schemes cover the 79 local government areas and three other areas in Victoria. Planning schemes are regularly amended, and Vicmap Planning is continually updated to reflect the official planning scheme at any time. \n\nDatasets in the series are listed below.  See them for more detailed metadata.\n- Planning scheme zones - Vicmap Planning (VMPLAN_PLAN_ZONE_HISTORY);\n- Planning scheme overlay - Vicmap Planning (VMPLAN_PLAN_OVERLAY_HISTORY);\n- Planning scheme codelist - Vicmap Planning (VMPLAN_PLAN_CODELIST)\nCurrent data model is Version 3.0.1 (Draft) 15 July 2017.",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "boundaries",
-      "economy",
-      "environment",
-      "society",
-      "structure",
-      "transportation"
-    ],
-    "lastUpdated": "2026-01-08T04:45:37.215027",
-    "discoveredAt": "2026-01-14T00:03:17.520Z",
-    "license": "Creative Commons Attribution 3.0 Australia",
-    "publisher": "Department of Transport and Planning ",
-    "organizationId": "department-of-transport-and-planning-victoria-government",
-    "resources": [
-      {
-        "id": "a1efbabb-de03-4774-9669-0301a8694746",
-        "name": "VICMAPPLANNINGHISTORY DWG",
-        "format": "DWG",
-        "url": "https://datashare.maps.vic.gov.au/search?md=9d057e08-6ed8-5d72-a8b6-9e0b613c94a5",
-        "size": 0
-      },
-      {
-        "id": "0eff3f7f-f914-4c95-acb4-fa5c3bf649c2",
-        "name": "VICMAPPLANNINGHISTORY DXF",
-        "format": "DXF",
-        "url": "https://datashare.maps.vic.gov.au/search?md=9d057e08-6ed8-5d72-a8b6-9e0b613c94a5",
-        "size": 0
-      },
-      {
-        "id": "66f2d989-e1d4-4659-81f3-5b18944f462c",
-        "name": "VICMAPPLANNINGHISTORY GDB",
-        "format": "GDB",
-        "url": "https://datashare.maps.vic.gov.au/search?md=9d057e08-6ed8-5d72-a8b6-9e0b613c94a5",
-        "size": 0
-      },
-      {
-        "id": "69af825e-99dc-489c-b909-27ca73c6923f",
-        "name": "VICMAPPLANNINGHISTORY SHP",
-        "format": "SHP",
-        "url": "https://datashare.maps.vic.gov.au/search?md=9d057e08-6ed8-5d72-a8b6-9e0b613c94a5",
-        "size": 0
-      },
-      {
-        "id": "120ec6cc-8a92-493d-abb2-cb5520406c0e",
-        "name": "VICMAPPLANNINGHISTORY MIF",
-        "format": "MIF",
-        "url": "https://datashare.maps.vic.gov.au/search?md=9d057e08-6ed8-5d72-a8b6-9e0b613c94a5",
-        "size": 0
-      },
-      {
-        "id": "11793e3d-a267-45e7-b02b-b8b6d680aad4",
-        "name": "VICMAPPLANNINGHISTORY TAB",
-        "format": "TAB",
-        "url": "https://datashare.maps.vic.gov.au/search?md=9d057e08-6ed8-5d72-a8b6-9e0b613c94a5",
-        "size": 0
-      },
-      {
-        "id": "58c51736-7115-4c39-b6f0-14a922f63dca",
-        "name": "VICMAPPLANNINGHISTORY Extended TAB",
-        "format": "EXTENDED TAB",
-        "url": "https://datashare.maps.vic.gov.au/search?md=9d057e08-6ed8-5d72-a8b6-9e0b613c94a5",
-        "size": 0
-      }
-    ]
-  },
-  {
-    "id": "07ab253b-9cc7-413a-a75a-5ae33ca0e727",
-    "title": "Queensland Government Air Wing flights by activity",
-    "description": "Government Air Wing services—a quarterly report on hours flown by activity.",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "minister",
-      "travel",
-      "workplace"
-    ],
-    "lastUpdated": "2025-11-11T07:05:37.265733",
-    "discoveredAt": "2026-01-14T01:10:05.563Z",
-    "license": "Creative Commons Attribution 3.0 Australia",
-    "publisher": "Police",
-    "organizationId": "police-queensland-government",
-    "resources": [
-      {
-        "id": "8743f73a-7229-4583-a5de-7f2ff21d2829",
-        "name": "30 September 2012—Monthly breakdown of hours",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-month-1-qtr-2012-13.csv",
-        "size": null
-      },
-      {
-        "id": "47a529b2-1c1a-4358-b78b-f75c8f8a0a4e",
-        "name": "30 September 2012—Hours flown by activity",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-1-qtr-2012-13.csv",
-        "size": null
-      },
-      {
-        "id": "91c0dce4-3ebd-4c93-a742-3509277a525e",
-        "name": "30 June 2012—Hours flown by activity ",
-        "format": "XLS",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-4-qtr-2011-12.xls",
-        "size": null
-      },
-      {
-        "id": "15df6cba-dda1-492c-aec1-3e493f598c00",
-        "name": "31 March 2012—Hours flown by activity ",
-        "format": "XLS",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-3-qtr-2011-12.xls",
-        "size": null
-      },
-      {
-        "id": "06173d1b-0060-44e8-afa6-212ac32b1e14",
-        "name": "31 December 2011—Hours flown by activity ",
-        "format": "XLS",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-2011-2012-government-air-wing-q2.xls",
-        "size": null
-      },
-      {
-        "id": "ceb557c7-57bd-4a86-aa68-226630de99c2",
-        "name": "30 September 2011—Hours flown by activity ",
-        "format": "XLS",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-2011-2012-government-air-wing.xls",
-        "size": null
-      },
-      {
-        "id": "957d6479-92d1-4d4e-aee8-151e1dcfba83",
-        "name": "30 June 2011—Hours flown by activity ",
-        "format": "XLS",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-4-qtr-2010-11.xls",
-        "size": null
-      },
-      {
-        "id": "884c7ba7-e59e-49db-a921-0f1c5652aeac",
-        "name": "31 March 2011—Hours flown by activity ",
-        "format": "XLS",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-3-qtr-2010-11.xls",
-        "size": null
-      },
-      {
-        "id": "d61e0052-e3d9-4bb5-a833-d3e16479202c",
-        "name": "30 December 2010—Hours flown by activity ",
-        "format": "XLS",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-2-qtr-2010-11.xls",
-        "size": null
-      },
-      {
-        "id": "d90130ea-af6c-4afb-9ede-5b8849f3f0cc",
-        "name": "30 September 2010—Hours flown by activity ",
-        "format": "XLS",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-1-qtr-2010-11.xls",
-        "size": null
-      },
-      {
-        "id": "c7ca5628-8bdf-481d-9467-1dfe5ec38698",
-        "name": "31 December 2012 – Hours flown by activity ",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-2012-dec-government-air-wing-summary.csv",
-        "size": null
-      },
-      {
-        "id": "ba97e502-321d-483d-b646-00fb15e8d662",
-        "name": "31 December 2012—Monthly breakdown of hours ",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-2012-dec-government-air-wing-month.csv",
-        "size": null
-      },
-      {
-        "id": "631de5d9-1344-402d-868c-a3736c132d18",
-        "name": "31 March 2013–Hours flown by activity",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-2012-2013-government-air-wing-mar2013.csv",
-        "size": null
-      },
-      {
-        "id": "85eb32a7-0ac0-4f71-932c-84ecce1c63f0",
-        "name": "31 March 2013–Monthly breakdown of hours",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-summary-by-month-2012-2013-government-air-wing-mar13.csv",
-        "size": null
-      },
-      {
-        "id": "7bccbdef-ab73-4a5b-a9c7-ddf3ecfd6d6a",
-        "name": "30 June 2013 - Hours flown by Activity",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-as-at-30-june-2013-summary.csv",
-        "size": null
-      },
-      {
-        "id": "e4a742c1-48da-4dea-84ec-66e5883d9956",
-        "name": "30 June 2013 - Monthly breakdown of hours ",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-as-at-30-june-2013-month.csv",
-        "size": null
-      },
-      {
-        "id": "1e15c557-fad5-4923-8247-370b0469c7c7",
-        "name": "30 September 2013–Hours flown by activity",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-as-at-30-sept-2013-summary.csv",
-        "size": null
-      },
-      {
-        "id": "c9fac0da-9121-4c70-bfa7-fe5f6b15b5f2",
-        "name": "30 September 2013–Monthly breakdown of hours",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-as-at-30-sept-2013-month.csv",
-        "size": null
-      },
-      {
-        "id": "8837fb72-115e-40b1-9713-724aabcea1c7",
-        "name": "31 December 2013–Hours flown by activity",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-as-at-31-dec-2013-summary.csv",
-        "size": null
-      },
-      {
-        "id": "a557c313-5168-483e-81d5-cf5031f647cf",
-        "name": "31 December 2013–Monthly breakdown of hours",
-        "format": "CSV",
-        "url": "http://www.premiers.qld.gov.au/right-to-info/published-info/assets/hours-by-activity-as-at-31-dec-2013-month.csv",
-        "size": null
-      }
-    ]
-  },
-  {
-    "id": "07aca937-9d08-4892-b20d-11f14f06ade9",
-    "title": "2016 SoE Marine Example of marine spatial management in the Great Australian Bight off South Australia by multiple sectors and jurisdictions",
-    "description": "Example of marine spatial management in the Great Australian Bight off South Australia by multiple sectors and jurisdictions: Source : Source: National Environmental Science Programme Marine Biodiversity Hub See : https://www.nespmarine.edu.au/maps\r\n\r\nMap prepared by the Department of Environment and Energy in order to produce Figure MAR35 in the Marine theme of the 2016 State of the Environment Report, available at http://www.soe.environment.gov.au\r\n\r\nThe map service can be viewed at http://soe.terria.io/#share=s-4utq9F8NL5V6gJxsMu6Jp3dyrXi\r\n\r\nDownloadable spatial data also available below.\r\n\r\n",
-    "jurisdiction": "Commonwealth",
-    "source": "Data.gov.au",
-    "tags": [
-      "2016",
-      "2016 SoE",
-      "Marine environment",
-      "Marine environment Map",
-      "SoE",
-      "SoE Map",
-      "State of the Environment"
-    ],
-    "lastUpdated": "2023-08-09T05:06:01.820053",
-    "discoveredAt": "2026-01-14T02:18:43.187Z",
-    "license": "Creative Commons Attribution 4.0 International",
-    "publisher": "State of the Environment",
-    "organizationId": "state-of-the-environment",
-    "resources": [
-      {
-        "id": "5d68a269-dddc-41f7-84e4-4648bf1c4ca5",
-        "name": "MAR35 Marine spatial management in the Great Australian Bight off South Australia by multiple sectors and jurisdictions",
-        "format": "ESRI REST",
-        "url": "http://www.environment.gov.au/mapping/rest/services/digital_soe/soe2016_mar3/MapServer",
-        "size": null
-      },
-      {
-        "id": "fb020763-7c0e-42cb-a3ab-aca4aab0098a",
-        "name": "MAR35 Example of marine spatial management",
-        "format": "ESRI SHAPE AND LAYER FILES",
-        "url": "https://data.gov.au/data/dataset/07aca937-9d08-4892-b20d-11f14f06ade9/resource/fb020763-7c0e-42cb-a3ab-aca4aab0098a/download/soe2016mar30to26mar35.zip",
         "size": null
       }
     ]

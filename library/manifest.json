@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-01-14T03:12:14.434Z",
-  "totalRecords": 23839,
+  "lastUpdate": "2026-01-14T04:04:55.156Z",
+  "totalRecords": 24863,
   "files": [
     "data/commonwealth/datagovau/2026-01-p1.json",
     "data/commonwealth/datagovau/2026-01-p2.json",
@@ -81,6 +81,9 @@
     "data/commonwealth/datagovau/2026-01-p77.json",
     "data/commonwealth/datagovau/2026-01-p78.json",
     "data/commonwealth/datagovau/2026-01-p79.json",
-    "data/commonwealth/datagovau/2026-01-p80.json"
+    "data/commonwealth/datagovau/2026-01-p80.json",
+    "data/commonwealth/datagovau/2026-01-p81.json",
+    "data/commonwealth/datagovau/2026-01-p82.json",
+    "data/commonwealth/datagovau/2026-01-p83.json"
   ]
 }
