@@ -1,6 +1,6 @@
 {
-  "lastUpdate": "2026-01-14T01:46:18.589Z",
-  "totalRecords": 18688,
+  "lastUpdate": "2026-01-14T03:12:14.434Z",
+  "totalRecords": 23839,
   "files": [
     "data/commonwealth/datagovau/2026-01-p1.json",
     "data/commonwealth/datagovau/2026-01-p2.json",
@@ -64,6 +64,23 @@
     "data/commonwealth/datagovau/2026-01-p60.json",
     "data/commonwealth/datagovau/2026-01-p61.json",
     "data/commonwealth/datagovau/2026-01-p62.json",
-    "data/commonwealth/datagovau/2026-01-p63.json"
+    "data/commonwealth/datagovau/2026-01-p63.json",
+    "data/commonwealth/datagovau/2026-01-p64.json",
+    "data/commonwealth/datagovau/2026-01-p65.json",
+    "data/commonwealth/datagovau/2026-01-p66.json",
+    "data/commonwealth/datagovau/2026-01-p67.json",
+    "data/commonwealth/datagovau/2026-01-p68.json",
+    "data/commonwealth/datagovau/2026-01-p69.json",
+    "data/commonwealth/datagovau/2026-01-p70.json",
+    "data/commonwealth/datagovau/2026-01-p71.json",
+    "data/commonwealth/datagovau/2026-01-p72.json",
+    "data/commonwealth/datagovau/2026-01-p73.json",
+    "data/commonwealth/datagovau/2026-01-p74.json",
+    "data/commonwealth/datagovau/2026-01-p75.json",
+    "data/commonwealth/datagovau/2026-01-p76.json",
+    "data/commonwealth/datagovau/2026-01-p77.json",
+    "data/commonwealth/datagovau/2026-01-p78.json",
+    "data/commonwealth/datagovau/2026-01-p79.json",
+    "data/commonwealth/datagovau/2026-01-p80.json"
   ]
 }
